@@ -1,0 +1,102 @@
+{% extends "base.html" %}
+
+{% block title %}
+<title>Players - Pointnut</title>
+{% endblock %}
+
+{% block nav-title %}
+<a class="mr-2" href="/"><i class="fas fa-chevron-left"></i></a>
+<span>Players</span>
+{% endblock %}
+
+{% block nav-link %}
+<a class="btn btn-outline-secondary btn-xm" href="" role="button">PLAYER</a>
+{% endblock %}
+
+{% block header %}
+<!-- Header -->
+<header class="box">
+  <div class="jumbotron bg-green text-white text-center">
+    <h1 class="mb-3 display-4">Top Player</h1>
+    <p>탑 플레이어에 도전해 보세요!<br>
+      단지 시그널을 선택하고, 하비스터에 맡기면 됩니다.
+    </p>
+  </div>
+</header>
+{% endblock %}
+
+{% block main %}
+<!-- Section -->
+<section class="box">
+  <div class="box-pad">
+    <h4 class="my-1 text-darkgray">Best Players</h4>
+  </div>
+  <!-- Section Body -->
+  {% if player_trade_list %}
+  <div class="box">
+    {% for trade in player_trade_list %}
+    <div class="box-pad d-flex align-items-center border-top">
+      <div class="d-none d-sm-block w-25 text-center pr-3">
+        <p class="h3 font-weight-normal text-green">{{ forloop.counter }}</p>
+      </div>
+      <div class="box">
+        <div class="d-flex align-items-center">
+          <h5 class="text-uppercase">{{ trade.player.username }}</h5>
+          <h6 class="px-2 text-kr text-muted mr-auto">{{ trade.player.first_name }}</h6>
+          <p class="h5">
+            <a href="{% url 'players:returns' trade.player.username %}" ><i class="fas fa-chevron-right"></i></a>
+          </p>
+        </div>
+        <div class="d-flex">
+          <p class="mb-0 small mr-auto"><span class="mr-1 text-kr">{{ trade }}</span>
+            <span class="text-{% if trade.change >= 0 %}orange{% else %}cyan{% endif %}">
+            {{ trade.change|stringformat:"+0.2f" }}%</span>
+          </p>
+          <p class="mb-0 small">
+            <span class="text-muted">{{ trade.date_closed|date:'Y.m.d' }}</span>
+          </p>
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+  {% else %}
+  <div class="box-pad">
+    <p>지금은 플레이어가 없습니다.</p>
+  </div>
+  {% endif %}
+</section>
+
+<!-- Section -->
+<section class="box">
+  <div class="box-pad">
+    <h4 class="my-1 text-darkgray">New Players</h4>
+  </div>
+  <!-- Section Body -->
+  {% if new_player_list %}
+  <div class="box">
+    {% for player in new_player_list %}
+    <div class="box-pad d-flex align-items-center border-top">
+      <div class="d-none d-sm-block w-25 text-center pr-3">
+        <p class="h3 font-weight-normal text-green">{{ forloop.counter }}</p>
+      </div>
+      <div class="box">
+        <div class="d-flex align-items-center">
+          <h5 class="text-uppercase">{{ player.username }}</h5>
+          <h6 class="px-2 text-kr text-muted mr-auto">{{ player.first_name }}</h6>
+          <p class="h5">
+            <span class="text-gray"><i class="fas fa-chevron-right"></i></span>
+          </p>
+        </div>
+        <p class="mb-0 text-kr small">포지션 대기 중...</p>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+  {% else %}
+  <div class="box-pad">
+    <p>지금은 플레이어가 없습니다.</p>
+  </div>
+  {% endif %}
+</section>
+{% endblock %}

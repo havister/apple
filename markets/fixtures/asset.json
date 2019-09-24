@@ -1,0 +1,2586 @@
+[
+{
+  "model": "markets.asset",
+  "pk": 1,
+  "fields": {
+    "market": "I",
+    "code": "2001",
+    "name": "KOSPI 200",
+    "has_future": true,
+    "has_option": true,
+    "is_kospi": false,
+    "is_kospi_200": false,
+    "is_kospi_100": false,
+    "is_kospi_50": false,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": true,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 2,
+  "fields": {
+    "market": "I",
+    "code": "3003",
+    "name": "KOSDAQ 150",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": false,
+    "is_kospi_200": false,
+    "is_kospi_100": false,
+    "is_kospi_50": false,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": true,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 3,
+  "fields": {
+    "market": "S",
+    "code": "270",
+    "name": "\uae30\uc544\ucc28",
+    "has_future": true,
+    "has_option": true,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": true,
+    "is_kospi_50": true,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": true,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 4,
+  "fields": {
+    "market": "S",
+    "code": "660",
+    "name": "SK\ud558\uc774\ub2c9\uc2a4",
+    "has_future": true,
+    "has_option": true,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": true,
+    "is_kospi_50": true,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": true,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 5,
+  "fields": {
+    "market": "S",
+    "code": "4020",
+    "name": "\ud604\ub300\uc81c\ucca0",
+    "has_future": true,
+    "has_option": true,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": true,
+    "is_kospi_50": true,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": true,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 6,
+  "fields": {
+    "market": "S",
+    "code": "5380",
+    "name": "\ud604\ub300\ucc28",
+    "has_future": true,
+    "has_option": true,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": true,
+    "is_kospi_50": true,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": true,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 7,
+  "fields": {
+    "market": "S",
+    "code": "5490",
+    "name": "POSCO",
+    "has_future": true,
+    "has_option": true,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": true,
+    "is_kospi_50": true,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": true,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 8,
+  "fields": {
+    "market": "S",
+    "code": "5930",
+    "name": "\uc0bc\uc131\uc804\uc790",
+    "has_future": true,
+    "has_option": true,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": true,
+    "is_kospi_50": true,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": true,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 9,
+  "fields": {
+    "market": "S",
+    "code": "6800",
+    "name": "\ubbf8\ub798\uc5d0\uc14b\ub300\uc6b0",
+    "has_future": true,
+    "has_option": true,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": true,
+    "is_kospi_50": false,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": true,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 10,
+  "fields": {
+    "market": "S",
+    "code": "8770",
+    "name": "\ud638\ud154\uc2e0\ub77c",
+    "has_future": true,
+    "has_option": true,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": true,
+    "is_kospi_50": false,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": true,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 11,
+  "fields": {
+    "market": "S",
+    "code": "9150",
+    "name": "\uc0bc\uc131\uc804\uae30",
+    "has_future": true,
+    "has_option": true,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": true,
+    "is_kospi_50": false,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": true,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 12,
+  "fields": {
+    "market": "S",
+    "code": "9540",
+    "name": "\ud55c\uad6d\uc870\uc120\ud574\uc591",
+    "has_future": true,
+    "has_option": true,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": true,
+    "is_kospi_50": true,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": true,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 13,
+  "fields": {
+    "market": "S",
+    "code": "9830",
+    "name": "\ud55c\ud654\ucf00\ubbf8\uce7c",
+    "has_future": true,
+    "has_option": true,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": true,
+    "is_kospi_50": false,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": true,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 14,
+  "fields": {
+    "market": "S",
+    "code": "12330",
+    "name": "\ud604\ub300\ubaa8\ube44\uc2a4",
+    "has_future": true,
+    "has_option": true,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": true,
+    "is_kospi_50": true,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": true,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 15,
+  "fields": {
+    "market": "S",
+    "code": "15760",
+    "name": "\ud55c\uad6d\uc804\ub825",
+    "has_future": true,
+    "has_option": true,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": true,
+    "is_kospi_50": true,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": true,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 16,
+  "fields": {
+    "market": "S",
+    "code": "17670",
+    "name": "SK\ud154\ub808\ucf64",
+    "has_future": true,
+    "has_option": true,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": true,
+    "is_kospi_50": true,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": true,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 17,
+  "fields": {
+    "market": "S",
+    "code": "18260",
+    "name": "\uc0bc\uc131\uc5d0\uc2a4\ub514\uc5d0\uc2a4",
+    "has_future": true,
+    "has_option": true,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": true,
+    "is_kospi_50": true,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": true,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 18,
+  "fields": {
+    "market": "S",
+    "code": "28260",
+    "name": "\uc0bc\uc131\ubb3c\uc0b0",
+    "has_future": true,
+    "has_option": true,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": true,
+    "is_kospi_50": true,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": true,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 19,
+  "fields": {
+    "market": "S",
+    "code": "30200",
+    "name": "KT",
+    "has_future": true,
+    "has_option": true,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": true,
+    "is_kospi_50": true,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": true,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 20,
+  "fields": {
+    "market": "S",
+    "code": "32640",
+    "name": "LG\uc720\ud50c\ub7ec\uc2a4",
+    "has_future": true,
+    "has_option": true,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": true,
+    "is_kospi_50": true,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": true,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 21,
+  "fields": {
+    "market": "S",
+    "code": "34220",
+    "name": "LG\ub514\uc2a4\ud50c\ub808\uc774",
+    "has_future": true,
+    "has_option": true,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": true,
+    "is_kospi_50": true,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": true,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 22,
+  "fields": {
+    "market": "S",
+    "code": "35720",
+    "name": "\uce74\uce74\uc624",
+    "has_future": true,
+    "has_option": true,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": true,
+    "is_kospi_50": true,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": true,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 23,
+  "fields": {
+    "market": "S",
+    "code": "42670",
+    "name": "\ub450\uc0b0\uc778\ud504\ub77c\ucf54\uc5b4",
+    "has_future": true,
+    "has_option": true,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": false,
+    "is_kospi_50": false,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": true,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 24,
+  "fields": {
+    "market": "S",
+    "code": "47810",
+    "name": "\ud55c\uad6d\ud56d\uacf5\uc6b0\uc8fc",
+    "has_future": true,
+    "has_option": true,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": true,
+    "is_kospi_50": true,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": true,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 25,
+  "fields": {
+    "market": "S",
+    "code": "51910",
+    "name": "LG\ud654\ud559",
+    "has_future": true,
+    "has_option": true,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": true,
+    "is_kospi_50": true,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": true,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 26,
+  "fields": {
+    "market": "S",
+    "code": "55550",
+    "name": "\uc2e0\ud55c\uc9c0\uc8fc",
+    "has_future": true,
+    "has_option": true,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": true,
+    "is_kospi_50": true,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": true,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 27,
+  "fields": {
+    "market": "S",
+    "code": "66570",
+    "name": "LG\uc804\uc790",
+    "has_future": true,
+    "has_option": true,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": true,
+    "is_kospi_50": true,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": true,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 28,
+  "fields": {
+    "market": "S",
+    "code": "68270",
+    "name": "\uc140\ud2b8\ub9ac\uc628",
+    "has_future": true,
+    "has_option": true,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": true,
+    "is_kospi_50": true,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": true,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 29,
+  "fields": {
+    "market": "S",
+    "code": "69080",
+    "name": "\uc6f9\uc820",
+    "has_future": true,
+    "has_option": true,
+    "is_kospi": false,
+    "is_kospi_200": false,
+    "is_kospi_100": false,
+    "is_kospi_50": false,
+    "is_kosdaq": true,
+    "is_kosdaq_150": true,
+    "is_primary": true,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 30,
+  "fields": {
+    "market": "S",
+    "code": "86790",
+    "name": "\ud558\ub098\uae08\uc735\uc9c0\uc8fc",
+    "has_future": true,
+    "has_option": true,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": true,
+    "is_kospi_50": true,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": true,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 31,
+  "fields": {
+    "market": "S",
+    "code": "90430",
+    "name": "\uc544\ubaa8\ub808\ud37c\uc2dc\ud53d",
+    "has_future": true,
+    "has_option": true,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": true,
+    "is_kospi_50": true,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": true,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 32,
+  "fields": {
+    "market": "S",
+    "code": "96770",
+    "name": "SK\uc774\ub178\ubca0\uc774\uc158",
+    "has_future": true,
+    "has_option": true,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": true,
+    "is_kospi_50": true,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": true,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 33,
+  "fields": {
+    "market": "S",
+    "code": "105560",
+    "name": "KB\uae08\uc735",
+    "has_future": true,
+    "has_option": true,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": true,
+    "is_kospi_50": true,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": true,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 34,
+  "fields": {
+    "market": "S",
+    "code": "316140",
+    "name": "\uc6b0\ub9ac\uae08\uc735\uc9c0\uc8fc",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": true,
+    "is_kospi_50": true,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": false,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 35,
+  "fields": {
+    "market": "S",
+    "code": "80",
+    "name": "\ud558\uc774\ud2b8\uc9c4\ub85c",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": false,
+    "is_kospi_50": false,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": false,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 36,
+  "fields": {
+    "market": "S",
+    "code": "100",
+    "name": "\uc720\ud55c\uc591\ud589",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": true,
+    "is_kospi_50": false,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": false,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 37,
+  "fields": {
+    "market": "S",
+    "code": "210",
+    "name": "\ub300\ub9bc\uc0b0\uc5c5",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": true,
+    "is_kospi_50": false,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": false,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 38,
+  "fields": {
+    "market": "S",
+    "code": "720",
+    "name": "\ud604\ub300\uac74\uc124",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": true,
+    "is_kospi_50": false,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": false,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 39,
+  "fields": {
+    "market": "S",
+    "code": "810",
+    "name": "\uc0bc\uc131\ud654\uc7ac",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": true,
+    "is_kospi_50": true,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": true,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 40,
+  "fields": {
+    "market": "S",
+    "code": "880",
+    "name": "\ud55c\ud654",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": true,
+    "is_kospi_50": false,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": false,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 41,
+  "fields": {
+    "market": "S",
+    "code": "1040",
+    "name": "CJ",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": true,
+    "is_kospi_50": true,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": true,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 42,
+  "fields": {
+    "market": "S",
+    "code": "1060",
+    "name": "JW\uc911\uc678\uc81c\uc57d",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": false,
+    "is_kospi_50": false,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": false,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 43,
+  "fields": {
+    "market": "S",
+    "code": "1120",
+    "name": "LG\uc0c1\uc0ac",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": false,
+    "is_kospi_50": false,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": false,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 44,
+  "fields": {
+    "market": "S",
+    "code": "1450",
+    "name": "\ud604\ub300\ud574\uc0c1",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": true,
+    "is_kospi_50": false,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": false,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 45,
+  "fields": {
+    "market": "S",
+    "code": "1680",
+    "name": "\ub300\uc0c1",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": false,
+    "is_kospi_50": false,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": false,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 46,
+  "fields": {
+    "market": "S",
+    "code": "1740",
+    "name": "SK\ub124\ud2b8\uc6cd\uc2a4",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": false,
+    "is_kospi_50": false,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": false,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 47,
+  "fields": {
+    "market": "S",
+    "code": "2350",
+    "name": "\ub125\uc13c\ud0c0\uc774\uc5b4",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": false,
+    "is_kospi_50": false,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": false,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 48,
+  "fields": {
+    "market": "S",
+    "code": "2380",
+    "name": "KCC",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": true,
+    "is_kospi_50": false,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": false,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 49,
+  "fields": {
+    "market": "S",
+    "code": "2790",
+    "name": "\uc544\ubaa8\ub808G",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": true,
+    "is_kospi_50": true,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": true,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 50,
+  "fields": {
+    "market": "S",
+    "code": "3490",
+    "name": "\ub300\ud55c\ud56d\uacf5",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": true,
+    "is_kospi_50": false,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": false,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 51,
+  "fields": {
+    "market": "S",
+    "code": "3520",
+    "name": "\uc601\uc9c4\uc57d\ud488",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": false,
+    "is_kospi_50": false,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": false,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 52,
+  "fields": {
+    "market": "S",
+    "code": "3550",
+    "name": "LG",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": true,
+    "is_kospi_50": true,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": true,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 53,
+  "fields": {
+    "market": "S",
+    "code": "3670",
+    "name": "\ud3ec\uc2a4\ucf54\ucf00\ubbf8\uce7c",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": false,
+    "is_kospi_200": false,
+    "is_kospi_100": false,
+    "is_kospi_50": false,
+    "is_kosdaq": true,
+    "is_kosdaq_150": true,
+    "is_primary": false,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 54,
+  "fields": {
+    "market": "S",
+    "code": "4170",
+    "name": "\uc2e0\uc138\uacc4",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": true,
+    "is_kospi_50": false,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": false,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 55,
+  "fields": {
+    "market": "S",
+    "code": "4370",
+    "name": "\ub18d\uc2ec",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": true,
+    "is_kospi_50": false,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": false,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 56,
+  "fields": {
+    "market": "S",
+    "code": "5830",
+    "name": "DB\uc190\ud574\ubcf4\ud5d8",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": true,
+    "is_kospi_50": false,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": false,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 57,
+  "fields": {
+    "market": "S",
+    "code": "5940",
+    "name": "NH\ud22c\uc790\uc99d\uad8c",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": true,
+    "is_kospi_50": false,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": false,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 58,
+  "fields": {
+    "market": "S",
+    "code": "6360",
+    "name": "GS\uac74\uc124",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": false,
+    "is_kospi_50": false,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": false,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 59,
+  "fields": {
+    "market": "S",
+    "code": "6400",
+    "name": "\uc0bc\uc131SDI",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": true,
+    "is_kospi_50": true,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": true,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 60,
+  "fields": {
+    "market": "S",
+    "code": "6650",
+    "name": "\ub300\ud55c\uc720\ud654",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": false,
+    "is_kospi_50": false,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": false,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 61,
+  "fields": {
+    "market": "S",
+    "code": "7070",
+    "name": "GS\ub9ac\ud14c\uc77c",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": true,
+    "is_kospi_50": false,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": false,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 62,
+  "fields": {
+    "market": "S",
+    "code": "8560",
+    "name": "\uba54\ub9ac\uce20\uc885\uae08\uc99d\uad8c",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": false,
+    "is_kospi_50": false,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": false,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 63,
+  "fields": {
+    "market": "S",
+    "code": "8930",
+    "name": "\ud55c\ubbf8\uc0ac\uc774\uc5b8\uc2a4",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": true,
+    "is_kospi_50": true,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": true,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 64,
+  "fields": {
+    "market": "S",
+    "code": "9240",
+    "name": "\ud55c\uc0d8",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": true,
+    "is_kospi_50": false,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": false,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 65,
+  "fields": {
+    "market": "S",
+    "code": "10060",
+    "name": "OCI",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": true,
+    "is_kospi_50": false,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": false,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 66,
+  "fields": {
+    "market": "S",
+    "code": "10130",
+    "name": "\uace0\ub824\uc544\uc5f0",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": true,
+    "is_kospi_50": true,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": true,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 67,
+  "fields": {
+    "market": "S",
+    "code": "10140",
+    "name": "\uc0bc\uc131\uc911\uacf5\uc5c5",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": true,
+    "is_kospi_50": false,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": false,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 68,
+  "fields": {
+    "market": "S",
+    "code": "10620",
+    "name": "\ud604\ub300\ubbf8\ud3ec\uc870\uc120",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": false,
+    "is_kospi_50": false,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": false,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 69,
+  "fields": {
+    "market": "S",
+    "code": "10950",
+    "name": "S-OIL",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": true,
+    "is_kospi_50": true,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": true,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 70,
+  "fields": {
+    "market": "S",
+    "code": "11070",
+    "name": "LG\uc774\ub178\ud14d",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": true,
+    "is_kospi_50": false,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": false,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 71,
+  "fields": {
+    "market": "S",
+    "code": "11170",
+    "name": "\ub86f\ub370\ucf00\ubbf8\uce7c",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": true,
+    "is_kospi_50": true,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": true,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 72,
+  "fields": {
+    "market": "S",
+    "code": "11210",
+    "name": "\ud604\ub300\uc704\uc544",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": true,
+    "is_kospi_50": false,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": false,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 73,
+  "fields": {
+    "market": "S",
+    "code": "11780",
+    "name": "\uae08\ud638\uc11d\uc720",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": true,
+    "is_kospi_50": false,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": false,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 74,
+  "fields": {
+    "market": "S",
+    "code": "12450",
+    "name": "\ud55c\ud654\uc5d0\uc5b4\ub85c\uc2a4\ud398\uc774\uc2a4",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": true,
+    "is_kospi_50": false,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": false,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 75,
+  "fields": {
+    "market": "S",
+    "code": "12750",
+    "name": "\uc5d0\uc2a4\uc6d0",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": true,
+    "is_kospi_50": false,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": false,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 76,
+  "fields": {
+    "market": "S",
+    "code": "16360",
+    "name": "\uc0bc\uc131\uc99d\uad8c",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": true,
+    "is_kospi_50": false,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": false,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 77,
+  "fields": {
+    "market": "S",
+    "code": "17800",
+    "name": "\ud604\ub300\uc5d8\ub9ac\ubca0\uc774",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": false,
+    "is_kospi_50": false,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": false,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 78,
+  "fields": {
+    "market": "S",
+    "code": "18880",
+    "name": "\ud55c\uc628\uc2dc\uc2a4\ud15c",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": true,
+    "is_kospi_50": false,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": true,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 79,
+  "fields": {
+    "market": "S",
+    "code": "21240",
+    "name": "\uc6c5\uc9c4\ucf54\uc6e8\uc774",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": true,
+    "is_kospi_50": true,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": false,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 80,
+  "fields": {
+    "market": "S",
+    "code": "22100",
+    "name": "\ud3ec\uc2a4\ucf54ICT",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": false,
+    "is_kospi_200": false,
+    "is_kospi_100": false,
+    "is_kospi_50": false,
+    "is_kosdaq": true,
+    "is_kosdaq_150": false,
+    "is_primary": false,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 81,
+  "fields": {
+    "market": "S",
+    "code": "23530",
+    "name": "\ub86f\ub370\uc1fc\ud551",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": true,
+    "is_kospi_50": true,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": true,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 82,
+  "fields": {
+    "market": "S",
+    "code": "23590",
+    "name": "\ub2e4\uc6b0\uae30\uc220",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": true,
+    "is_kospi_200": false,
+    "is_kospi_100": false,
+    "is_kospi_50": false,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": false,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 83,
+  "fields": {
+    "market": "S",
+    "code": "24110",
+    "name": "\uae30\uc5c5\uc740\ud589",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": true,
+    "is_kospi_50": true,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": true,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 84,
+  "fields": {
+    "market": "S",
+    "code": "27410",
+    "name": "BGF",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": false,
+    "is_kospi_50": false,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": false,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 85,
+  "fields": {
+    "market": "S",
+    "code": "29780",
+    "name": "\uc0bc\uc131\uce74\ub4dc",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": true,
+    "is_kospi_50": false,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": false,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 86,
+  "fields": {
+    "market": "S",
+    "code": "30000",
+    "name": "\uc81c\uc77c\uae30\ud68d",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": true,
+    "is_kospi_50": false,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": false,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 87,
+  "fields": {
+    "market": "S",
+    "code": "32830",
+    "name": "\uc0bc\uc131\uc0dd\uba85",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": true,
+    "is_kospi_50": true,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": true,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 88,
+  "fields": {
+    "market": "S",
+    "code": "33780",
+    "name": "KT&G",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": true,
+    "is_kospi_50": true,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": true,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 89,
+  "fields": {
+    "market": "S",
+    "code": "34020",
+    "name": "\ub450\uc0b0\uc911\uacf5\uc5c5",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": true,
+    "is_kospi_50": false,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": false,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 90,
+  "fields": {
+    "market": "S",
+    "code": "34230",
+    "name": "\ud30c\ub77c\ub2e4\uc774\uc2a4",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": false,
+    "is_kospi_200": false,
+    "is_kospi_100": false,
+    "is_kospi_50": false,
+    "is_kosdaq": true,
+    "is_kosdaq_150": true,
+    "is_primary": false,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 91,
+  "fields": {
+    "market": "S",
+    "code": "34730",
+    "name": "SK",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": true,
+    "is_kospi_50": true,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": true,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 92,
+  "fields": {
+    "market": "S",
+    "code": "35250",
+    "name": "\uac15\uc6d0\ub79c\ub4dc",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": true,
+    "is_kospi_50": true,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": true,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 93,
+  "fields": {
+    "market": "S",
+    "code": "35420",
+    "name": "NAVER",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": true,
+    "is_kospi_50": true,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": true,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 94,
+  "fields": {
+    "market": "S",
+    "code": "35760",
+    "name": "CJ ENM",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": false,
+    "is_kospi_200": false,
+    "is_kospi_100": false,
+    "is_kospi_50": false,
+    "is_kosdaq": true,
+    "is_kosdaq_150": false,
+    "is_primary": false,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 95,
+  "fields": {
+    "market": "S",
+    "code": "36460",
+    "name": "\ud55c\uad6d\uac00\uc2a4\uacf5\uc0ac",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": true,
+    "is_kospi_50": false,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": false,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 96,
+  "fields": {
+    "market": "S",
+    "code": "36490",
+    "name": "SK\uba38\ud2f0\ub9ac\uc5bc\uc988",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": false,
+    "is_kospi_200": false,
+    "is_kospi_100": false,
+    "is_kospi_50": false,
+    "is_kosdaq": true,
+    "is_kosdaq_150": true,
+    "is_primary": false,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 97,
+  "fields": {
+    "market": "S",
+    "code": "36570",
+    "name": "\uc5d4\uc2dc\uc18c\ud504\ud2b8",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": true,
+    "is_kospi_50": true,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": true,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 98,
+  "fields": {
+    "market": "S",
+    "code": "39130",
+    "name": "\ud558\ub098\ud22c\uc5b4",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": true,
+    "is_kospi_200": false,
+    "is_kospi_100": false,
+    "is_kospi_50": false,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": false,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 99,
+  "fields": {
+    "market": "S",
+    "code": "41510",
+    "name": "\uc5d0\uc2a4\uc5e0",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": false,
+    "is_kospi_200": false,
+    "is_kospi_100": false,
+    "is_kospi_50": false,
+    "is_kosdaq": true,
+    "is_kosdaq_150": true,
+    "is_primary": false,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 100,
+  "fields": {
+    "market": "S",
+    "code": "46890",
+    "name": "\uc11c\uc6b8\ubc18\ub3c4\uccb4",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": false,
+    "is_kospi_200": false,
+    "is_kospi_100": false,
+    "is_kospi_50": false,
+    "is_kosdaq": true,
+    "is_kosdaq_150": true,
+    "is_primary": false,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 101,
+  "fields": {
+    "market": "S",
+    "code": "47050",
+    "name": "\ud3ec\uc2a4\ucf54\uc778\ud130\ub124\uc154\ub110",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": true,
+    "is_kospi_50": false,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": false,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 102,
+  "fields": {
+    "market": "S",
+    "code": "51600",
+    "name": "\ud55c\uc804KPS",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": true,
+    "is_kospi_50": false,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": false,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 103,
+  "fields": {
+    "market": "S",
+    "code": "51900",
+    "name": "LG\uc0dd\ud65c\uac74\uac15",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": true,
+    "is_kospi_50": true,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": true,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 104,
+  "fields": {
+    "market": "S",
+    "code": "53800",
+    "name": "\uc548\ub7a9",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": false,
+    "is_kospi_200": false,
+    "is_kospi_100": false,
+    "is_kospi_50": false,
+    "is_kosdaq": true,
+    "is_kosdaq_150": true,
+    "is_primary": false,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 105,
+  "fields": {
+    "market": "S",
+    "code": "56190",
+    "name": "\uc5d0\uc2a4\uc5d0\ud504\uc5d0\uc774",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": false,
+    "is_kospi_200": false,
+    "is_kospi_100": false,
+    "is_kospi_50": false,
+    "is_kosdaq": true,
+    "is_kosdaq_150": true,
+    "is_primary": false,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 106,
+  "fields": {
+    "market": "S",
+    "code": "69960",
+    "name": "\ud604\ub300\ubc31\ud654\uc810",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": true,
+    "is_kospi_50": false,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": false,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 107,
+  "fields": {
+    "market": "S",
+    "code": "71050",
+    "name": "\ud55c\uad6d\uae08\uc735\uc9c0\uc8fc",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": true,
+    "is_kospi_50": false,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": false,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 108,
+  "fields": {
+    "market": "S",
+    "code": "78340",
+    "name": "\ucef4\ud22c\uc2a4",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": false,
+    "is_kospi_200": false,
+    "is_kospi_100": false,
+    "is_kospi_50": false,
+    "is_kosdaq": true,
+    "is_kosdaq_150": true,
+    "is_primary": false,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 109,
+  "fields": {
+    "market": "S",
+    "code": "78930",
+    "name": "GS",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": true,
+    "is_kospi_50": false,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": false,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 110,
+  "fields": {
+    "market": "S",
+    "code": "79160",
+    "name": "CJ CGV",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": false,
+    "is_kospi_50": false,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": false,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 111,
+  "fields": {
+    "market": "S",
+    "code": "79440",
+    "name": "\uc624\ub80c\uc9c0\ub77c\uc774\ud504",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": true,
+    "is_kospi_200": false,
+    "is_kospi_100": false,
+    "is_kospi_50": false,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": false,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 112,
+  "fields": {
+    "market": "S",
+    "code": "79550",
+    "name": "LIG\ub125\uc2a4\uc6d0",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": false,
+    "is_kospi_50": false,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": false,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 113,
+  "fields": {
+    "market": "S",
+    "code": "86280",
+    "name": "\ud604\ub300\uae00\ub85c\ube44\uc2a4",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": true,
+    "is_kospi_50": true,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": true,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 114,
+  "fields": {
+    "market": "S",
+    "code": "86900",
+    "name": "\uba54\ub514\ud1a1\uc2a4",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": false,
+    "is_kospi_200": false,
+    "is_kospi_100": false,
+    "is_kospi_50": false,
+    "is_kosdaq": true,
+    "is_kosdaq_150": true,
+    "is_primary": false,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 115,
+  "fields": {
+    "market": "S",
+    "code": "88350",
+    "name": "\ud55c\ud654\uc0dd\uba85",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": true,
+    "is_kospi_50": true,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": true,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 116,
+  "fields": {
+    "market": "S",
+    "code": "91700",
+    "name": "\ud30c\ud2b8\ub860",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": false,
+    "is_kospi_200": false,
+    "is_kospi_100": false,
+    "is_kospi_50": false,
+    "is_kosdaq": true,
+    "is_kosdaq_150": true,
+    "is_primary": false,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 117,
+  "fields": {
+    "market": "S",
+    "code": "91990",
+    "name": "\uc140\ud2b8\ub9ac\uc628\ud5ec\uc2a4\ucf00\uc5b4",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": false,
+    "is_kospi_200": false,
+    "is_kospi_100": false,
+    "is_kospi_50": false,
+    "is_kosdaq": true,
+    "is_kosdaq_150": true,
+    "is_primary": false,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 118,
+  "fields": {
+    "market": "S",
+    "code": "96530",
+    "name": "\uc528\uc820",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": false,
+    "is_kospi_200": false,
+    "is_kospi_100": false,
+    "is_kospi_50": false,
+    "is_kosdaq": true,
+    "is_kosdaq_150": true,
+    "is_primary": false,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 119,
+  "fields": {
+    "market": "S",
+    "code": "97950",
+    "name": "CJ\uc81c\uc77c\uc81c\ub2f9",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": true,
+    "is_kospi_50": false,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": false,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 120,
+  "fields": {
+    "market": "S",
+    "code": "105630",
+    "name": "\ud55c\uc138\uc2e4\uc5c5",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": false,
+    "is_kospi_50": false,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": false,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 121,
+  "fields": {
+    "market": "S",
+    "code": "108670",
+    "name": "LG\ud558\uc6b0\uc2dc\uc2a4",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": false,
+    "is_kospi_50": false,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": false,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 122,
+  "fields": {
+    "market": "S",
+    "code": "111770",
+    "name": "\uc601\uc6d0\ubb34\uc5ed",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": false,
+    "is_kospi_50": false,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": false,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 123,
+  "fields": {
+    "market": "S",
+    "code": "114090",
+    "name": "GKL",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": false,
+    "is_kospi_50": false,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": false,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 124,
+  "fields": {
+    "market": "S",
+    "code": "122870",
+    "name": "\uc640\uc774\uc9c0\uc5d4\ud130\ud14c\uc778\uba3c\ud2b8",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": false,
+    "is_kospi_200": false,
+    "is_kospi_100": false,
+    "is_kospi_50": false,
+    "is_kosdaq": true,
+    "is_kosdaq_150": true,
+    "is_primary": false,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 125,
+  "fields": {
+    "market": "S",
+    "code": "128940",
+    "name": "\ud55c\ubbf8\uc57d\ud488",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": true,
+    "is_kospi_50": false,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": false,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 126,
+  "fields": {
+    "market": "S",
+    "code": "138930",
+    "name": "BNK\uae08\uc735\uc9c0\uc8fc",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": true,
+    "is_kospi_50": false,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": false,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 127,
+  "fields": {
+    "market": "S",
+    "code": "139130",
+    "name": "DGB\uae08\uc735\uc9c0\uc8fc",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": true,
+    "is_kospi_200": false,
+    "is_kospi_100": false,
+    "is_kospi_50": false,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": false,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 128,
+  "fields": {
+    "market": "S",
+    "code": "139480",
+    "name": "\uc774\ub9c8\ud2b8",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": true,
+    "is_kospi_50": true,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": true,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 129,
+  "fields": {
+    "market": "S",
+    "code": "161390",
+    "name": "\ud55c\uad6d\ud0c0\uc774\uc5b4",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": true,
+    "is_kospi_50": true,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": true,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 130,
+  "fields": {
+    "market": "S",
+    "code": "161890",
+    "name": "\ud55c\uad6d\ucf5c\ub9c8",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": false,
+    "is_kospi_50": false,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": false,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 131,
+  "fields": {
+    "market": "S",
+    "code": "178920",
+    "name": "SKC\ucf54\uc624\ub871PI",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": false,
+    "is_kospi_200": false,
+    "is_kospi_100": false,
+    "is_kospi_50": false,
+    "is_kosdaq": true,
+    "is_kosdaq_150": true,
+    "is_primary": false,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 132,
+  "fields": {
+    "market": "S",
+    "code": "192820",
+    "name": "\ucf54\uc2a4\ub9e5\uc2a4",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": false,
+    "is_kospi_50": false,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": false,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 133,
+  "fields": {
+    "market": "S",
+    "code": "204320",
+    "name": "\ub9cc\ub3c4",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": false,
+    "is_kospi_50": false,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": false,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 134,
+  "fields": {
+    "market": "S",
+    "code": "240810",
+    "name": "\uc6d0\uc775IPS",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": false,
+    "is_kospi_200": false,
+    "is_kospi_100": false,
+    "is_kospi_50": false,
+    "is_kosdaq": true,
+    "is_kosdaq_150": true,
+    "is_primary": false,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 135,
+  "fields": {
+    "market": "S",
+    "code": "241560",
+    "name": "\ub450\uc0b0\ubc25\ucea3",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": true,
+    "is_kospi_50": false,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": false,
+    "is_active": true
+  }
+},
+{
+  "model": "markets.asset",
+  "pk": 136,
+  "fields": {
+    "market": "S",
+    "code": "251270",
+    "name": "\ub137\ub9c8\ube14",
+    "has_future": true,
+    "has_option": false,
+    "is_kospi": true,
+    "is_kospi_200": true,
+    "is_kospi_100": true,
+    "is_kospi_50": true,
+    "is_kosdaq": false,
+    "is_kosdaq_150": false,
+    "is_primary": true,
+    "is_active": true
+  }
+}
+]

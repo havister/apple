@@ -1,0 +1,318 @@
+[
+{
+  "model": "auth.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$150000$cBcbwjRvp2Il$WU2SGkDWqQBhu7saHo41zW79OPpZ1B4ZFzCJUgKSuco=",
+    "last_login": "2019-09-05T09:26:11.533",
+    "is_superuser": true,
+    "username": "superman",
+    "first_name": "\uc218\ud37c\ub9e8",
+    "last_name": "POINTNUT",
+    "email": "superman@pointnut.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2019-08-30T20:13:17",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 2,
+  "fields": {
+    "password": "pbkdf2_sha256$150000$YwmbmgsJyQxJ$VHg6rOEVdMpzI93TuopFmi0B1WAYwjX2CQZxWBh0ZbA=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "pointw",
+    "first_name": "\uc870\uc601\ub85d",
+    "last_name": "POINTW",
+    "email": "pointw@pointnut.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2019-08-30T20:17:41",
+    "groups": [
+      1,
+      2,
+      3
+    ],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 3,
+  "fields": {
+    "password": "pbkdf2_sha256$150000$CYequ0hPNipa$kdaZYruhcRYy2ixp4vRJFQxvQrdZjxZq6juxVeWA/u8=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "pointstar",
+    "first_name": "\ubbfc\uc138\uad11",
+    "last_name": "POINTSTAR",
+    "email": "pointstar@pointnut.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2019-08-30T20:18:09",
+    "groups": [
+      1,
+      2,
+      3
+    ],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 4,
+  "fields": {
+    "password": "pbkdf2_sha256$150000$Y1LDBVp97wzn$z5dd31S7rsW4o2LLkj73Vt8tA/by6Mfe2ZM0SAGIkbQ=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "pointwise",
+    "first_name": "\uc815\ud604\uc218",
+    "last_name": "POINTWISE",
+    "email": "pointwise.co.kr@gmail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2019-08-30T20:18:25",
+    "groups": [
+      1,
+      3
+    ],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 5,
+  "fields": {
+    "password": "pbkdf2_sha256$150000$aNGh3EiQiGio$6AIwdASZjt6jebrUpfniV/vdfohQnkAIDZW5FcL/Xbs=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "pointwatch",
+    "first_name": "\uae40\ud604\uc77c",
+    "last_name": "POINTWATCH",
+    "email": "pointwatch.co.kr@gmail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2019-08-30T20:18:40",
+    "groups": [
+      1,
+      3
+    ],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 6,
+  "fields": {
+    "password": "pbkdf2_sha256$150000$927dtofnTk6C$/eOaJBA751JQ9fZbVlxhGYdzXygWIkkxGXwOeDO03/Q=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "pointcore",
+    "first_name": "\uae40\uc740\uc9c0",
+    "last_name": "POINTCORE",
+    "email": "pointcore.co.kr@gmail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2019-08-30T20:18:57",
+    "groups": [
+      1,
+      3
+    ],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 7,
+  "fields": {
+    "password": "pbkdf2_sha256$150000$RbGfVwegNI5C$gLQPKIHZfgAFb7WKddalG6HtMv7Sg7SwqylegyLWOcY=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "pointk",
+    "first_name": "\ucd5c\uc6a9\uc6b4",
+    "last_name": "POINTK",
+    "email": "pointk.co.kr@gmail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2019-08-30T20:19:11",
+    "groups": [
+      1,
+      3
+    ],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 8,
+  "fields": {
+    "password": "pbkdf2_sha256$150000$Go2FURGFOzyh$omh3R3ikzJTbYwTQBEJM55i9kyb2SPt4TBrTh1k44C0=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "pointseven",
+    "first_name": "\ubbfc\uc138\uc724",
+    "last_name": "POINTSEVEN",
+    "email": "pointseven.co.kr@gmail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2019-08-30T20:19:23",
+    "groups": [
+      1,
+      3
+    ],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 9,
+  "fields": {
+    "password": "pbkdf2_sha256$150000$R2WDlovPUzoE$a4Bl80LDzv5Q41FnTt433eu5ZVV2b8nG72lQoZ9/RKA=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "pointace",
+    "first_name": "\uc774\ud61c\uc601",
+    "last_name": "POINTACE",
+    "email": "pointace.co.kr@gmail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2019-08-30T20:19:37",
+    "groups": [
+      1,
+      2,
+      3
+    ],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 10,
+  "fields": {
+    "password": "pbkdf2_sha256$150000$WVcBKL4oBYmo$37dRP4vJAEnkEhRTNmeCx1YSTOUB9KY6Arq4DYO0jOQ=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "pointm",
+    "first_name": "\ubb38\uc0ac\ub791",
+    "last_name": "POINTM",
+    "email": "pointm.kr@gmail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2019-08-30T20:19:51",
+    "groups": [
+      1,
+      2,
+      3
+    ],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 11,
+  "fields": {
+    "password": "pbkdf2_sha256$150000$TPcpsuN6eLhL$fRz4zLK3gr0y7SeiVpHTaJsGb0yYNtsLjjNnc616Q7k=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "pointjun",
+    "first_name": "\ud55c\uc9c0\ud615",
+    "last_name": "POINTJUN",
+    "email": "pointjun.co.kr@gmail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2019-08-30T20:20:03",
+    "groups": [
+      1,
+      3
+    ],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 12,
+  "fields": {
+    "password": "pbkdf2_sha256$150000$VRuSNuB6wMDT$+R2fbdOxIoohxMVrlklVzt443y4oqWgJYCElp2z7aZU=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "pointnine",
+    "first_name": "\uad6c\ubcf8\uc900",
+    "last_name": "POINTNINE",
+    "email": "pointnine.co.kr@gmail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2019-09-09T18:32:10",
+    "groups": [
+      1,
+      3
+    ],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 13,
+  "fields": {
+    "password": "pbkdf2_sha256$150000$WSnlAVRStYC6$SRKKzW5hxdVMNCVXX7CPxY2Oz3DdJ/9PP929KBMa3EM=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "pointj",
+    "first_name": "\uad8c\uc2b9\ud638",
+    "last_name": "POINTJ",
+    "email": "pointj.co.kr@gmail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2019-09-09T18:32:25",
+    "groups": [
+      1,
+      3
+    ],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 14,
+  "fields": {
+    "password": "pbkdf2_sha256$150000$hcV2K06JsYJU$ze2XUPg6mJJ055axo+SwvsF3vupN4TZiODiz6ra9qkY=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "pointsun",
+    "first_name": "\uae40\ud61c\uc9c4",
+    "last_name": "POINTSUN",
+    "email": "pointsun.co.kr@gmail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2019-09-09T18:32:46",
+    "groups": [
+      1,
+      3
+    ],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 15,
+  "fields": {
+    "password": "pbkdf2_sha256$150000$1VKVvKds0uJh$oMJql4z8DZS3rWTMkL7FmGJwRqVnEcGGgJGmuyrkwyE=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "points",
+    "first_name": "\uc1a1\uc9c0\ud615",
+    "last_name": "POINTS",
+    "email": "points.co.kr@gmail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2019-09-09T18:33:00",
+    "groups": [
+      1,
+      3
+    ],
+    "user_permissions": []
+  }
+}
+]

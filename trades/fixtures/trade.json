@@ -1,0 +1,5266 @@
+[
+{
+  "model": "trades.trade",
+  "pk": 1,
+  "fields": {
+    "player": 3,
+    "signal": 1,
+    "asset": 1,
+    "position": "L",
+    "date_opened": "2019-01-18T13:52:42",
+    "price_opened": "8555.00",
+    "date_closed": "2019-05-10T13:30:11",
+    "price_closed": "8470.00",
+    "difference": "-85.00",
+    "change": "-0.99"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 2,
+  "fields": {
+    "player": 3,
+    "signal": 1,
+    "asset": 1,
+    "position": "L",
+    "date_opened": "2019-01-18T15:30:03",
+    "price_opened": "12680.00",
+    "date_closed": "2019-04-15T09:54:54",
+    "price_closed": "13940.00",
+    "difference": "1260.00",
+    "change": "9.94"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 3,
+  "fields": {
+    "player": 3,
+    "signal": 1,
+    "asset": 1,
+    "position": "L",
+    "date_opened": "2019-01-18T15:30:03",
+    "price_opened": "12680.00",
+    "date_closed": "2019-05-21T10:04:07",
+    "price_closed": "11800.00",
+    "difference": "-880.00",
+    "change": "-6.94"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 4,
+  "fields": {
+    "player": 3,
+    "signal": 1,
+    "asset": 1,
+    "position": "L",
+    "date_opened": "2019-01-18T15:30:03",
+    "price_opened": "12680.00",
+    "date_closed": "2019-06-20T13:54:26",
+    "price_closed": "12500.00",
+    "difference": "-180.00",
+    "change": "-1.42"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 5,
+  "fields": {
+    "player": 3,
+    "signal": 1,
+    "asset": 1,
+    "position": "S",
+    "date_opened": "2019-01-18T15:30:22",
+    "price_opened": "7505.00",
+    "date_closed": "2019-05-09T15:17:17",
+    "price_closed": "7555.00",
+    "difference": "50.00",
+    "change": "0.67"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 6,
+  "fields": {
+    "player": 3,
+    "signal": 1,
+    "asset": 1,
+    "position": "S",
+    "date_opened": "2019-01-18T15:30:22",
+    "price_opened": "7505.00",
+    "date_closed": "2019-05-09T10:17:45",
+    "price_closed": "7250.00",
+    "difference": "255.00",
+    "change": "3.40"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 7,
+  "fields": {
+    "player": 3,
+    "signal": 1,
+    "asset": 1,
+    "position": "S",
+    "date_opened": "2019-01-18T15:30:22",
+    "price_opened": "7505.00",
+    "date_closed": "2019-05-10T13:44:17",
+    "price_closed": "7650.00",
+    "difference": "145.00",
+    "change": "1.93"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 8,
+  "fields": {
+    "player": 3,
+    "signal": 1,
+    "asset": 1,
+    "position": "S",
+    "date_opened": "2019-01-18T15:30:22",
+    "price_opened": "7505.00",
+    "date_closed": "2019-05-17T18:00:06",
+    "price_closed": "7995.00",
+    "difference": "490.00",
+    "change": "6.53"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 9,
+  "fields": {
+    "player": 3,
+    "signal": 1,
+    "asset": 1,
+    "position": "S",
+    "date_opened": "2019-01-18T15:30:22",
+    "price_opened": "7505.00",
+    "date_closed": "2019-07-08T09:13:20",
+    "price_closed": "7570.00",
+    "difference": "65.00",
+    "change": "0.87"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 10,
+  "fields": {
+    "player": 2,
+    "signal": 1,
+    "asset": 1,
+    "position": "L",
+    "date_opened": "2019-01-29T12:24:51",
+    "price_opened": "13140.00",
+    "date_closed": "2019-04-15T10:27:22",
+    "price_closed": "13945.00",
+    "difference": "805.00",
+    "change": "6.13"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 11,
+  "fields": {
+    "player": 2,
+    "signal": 1,
+    "asset": 1,
+    "position": "L",
+    "date_opened": "2019-01-29T12:24:51",
+    "price_opened": "13140.00",
+    "date_closed": "2019-06-19T09:13:57",
+    "price_closed": "12440.00",
+    "difference": "-700.00",
+    "change": "-5.33"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 12,
+  "fields": {
+    "player": 2,
+    "signal": 1,
+    "asset": 1,
+    "position": "L",
+    "date_opened": "2019-01-29T12:24:51",
+    "price_opened": "13140.00",
+    "date_closed": "2019-08-06T09:04:39",
+    "price_closed": "10395.00",
+    "difference": "-2745.00",
+    "change": "-20.89"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 13,
+  "fields": {
+    "player": 2,
+    "signal": 1,
+    "asset": 1,
+    "position": "L",
+    "date_opened": "2019-01-29T12:24:51",
+    "price_opened": "13140.00",
+    "date_closed": "2019-08-06T09:04:39",
+    "price_closed": "10395.00",
+    "difference": "-2745.00",
+    "change": "-20.89"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 14,
+  "fields": {
+    "player": 2,
+    "signal": 1,
+    "asset": 1,
+    "position": "S",
+    "date_opened": "2019-01-29T12:24:51",
+    "price_opened": "7130.00",
+    "date_closed": "2019-05-09T09:16:17",
+    "price_closed": "7230.00",
+    "difference": "100.00",
+    "change": "1.40"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 15,
+  "fields": {
+    "player": 2,
+    "signal": 1,
+    "asset": 1,
+    "position": "S",
+    "date_opened": "2019-01-29T12:24:51",
+    "price_opened": "7130.00",
+    "date_closed": "2019-05-09T15:18:57",
+    "price_closed": "7550.00",
+    "difference": "420.00",
+    "change": "5.89"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 16,
+  "fields": {
+    "player": 2,
+    "signal": 1,
+    "asset": 1,
+    "position": "S",
+    "date_opened": "2019-01-29T12:24:51",
+    "price_opened": "7130.00",
+    "date_closed": "2019-07-08T09:39:50",
+    "price_closed": "7575.00",
+    "difference": "445.00",
+    "change": "6.24"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 17,
+  "fields": {
+    "player": 2,
+    "signal": 1,
+    "asset": 1,
+    "position": "S",
+    "date_opened": "2019-01-29T12:24:51",
+    "price_opened": "7130.00",
+    "date_closed": "2019-08-06T09:04:42",
+    "price_closed": "8755.00",
+    "difference": "1625.00",
+    "change": "22.79"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 18,
+  "fields": {
+    "player": 2,
+    "signal": 1,
+    "asset": 1,
+    "position": "S",
+    "date_opened": "2019-01-29T12:24:51",
+    "price_opened": "7130.00",
+    "date_closed": "2019-08-06T09:04:42",
+    "price_closed": "8755.00",
+    "difference": "1625.00",
+    "change": "22.79"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 19,
+  "fields": {
+    "player": 2,
+    "signal": 1,
+    "asset": 1,
+    "position": "S",
+    "date_opened": "2019-01-29T12:26:04",
+    "price_opened": "7130.00",
+    "date_closed": "2019-05-09T13:23:55",
+    "price_closed": "7410.00",
+    "difference": "280.00",
+    "change": "3.93"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 20,
+  "fields": {
+    "player": 2,
+    "signal": 1,
+    "asset": 1,
+    "position": "L",
+    "date_opened": "2019-01-29T12:26:57",
+    "price_opened": "8770.00",
+    "date_closed": "2019-05-09T13:24:20",
+    "price_closed": "8600.00",
+    "difference": "-170.00",
+    "change": "-1.94"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 21,
+  "fields": {
+    "player": 3,
+    "signal": 3,
+    "asset": 15,
+    "position": "L",
+    "date_opened": "2019-02-11T12:51:54",
+    "price_opened": "34500.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 22,
+  "fields": {
+    "player": 3,
+    "signal": 3,
+    "asset": 15,
+    "position": "L",
+    "date_opened": "2019-02-11T12:51:54",
+    "price_opened": "34500.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 23,
+  "fields": {
+    "player": 3,
+    "signal": 3,
+    "asset": 15,
+    "position": "L",
+    "date_opened": "2019-02-11T12:51:54",
+    "price_opened": "34500.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 24,
+  "fields": {
+    "player": 3,
+    "signal": 3,
+    "asset": 15,
+    "position": "L",
+    "date_opened": "2019-02-11T12:51:54",
+    "price_opened": "34500.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 25,
+  "fields": {
+    "player": 3,
+    "signal": 3,
+    "asset": 13,
+    "position": "L",
+    "date_opened": "2019-02-11T12:55:47",
+    "price_opened": "21800.00",
+    "date_closed": "2019-07-02T12:39:55",
+    "price_closed": "23300.00",
+    "difference": "1500.00",
+    "change": "6.88"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 26,
+  "fields": {
+    "player": 3,
+    "signal": 3,
+    "asset": 3,
+    "position": "L",
+    "date_opened": "2019-02-11T12:58:27",
+    "price_opened": "37000.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 27,
+  "fields": {
+    "player": 3,
+    "signal": 3,
+    "asset": 3,
+    "position": "L",
+    "date_opened": "2019-02-11T12:58:27",
+    "price_opened": "37000.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 28,
+  "fields": {
+    "player": 3,
+    "signal": 3,
+    "asset": 24,
+    "position": "L",
+    "date_opened": "2019-02-11T13:00:35",
+    "price_opened": "34100.00",
+    "date_closed": "2019-07-31T09:08:11",
+    "price_closed": "37500.00",
+    "difference": "3400.00",
+    "change": "9.97"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 29,
+  "fields": {
+    "player": 3,
+    "signal": 3,
+    "asset": 24,
+    "position": "L",
+    "date_opened": "2019-02-11T13:00:35",
+    "price_opened": "34100.00",
+    "date_closed": "2019-07-31T09:08:11",
+    "price_closed": "37500.00",
+    "difference": "3400.00",
+    "change": "9.97"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 30,
+  "fields": {
+    "player": 3,
+    "signal": 3,
+    "asset": 24,
+    "position": "L",
+    "date_opened": "2019-02-11T13:00:35",
+    "price_opened": "34100.00",
+    "date_closed": "2019-08-01T11:37:18",
+    "price_closed": "37350.00",
+    "difference": "3250.00",
+    "change": "9.53"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 31,
+  "fields": {
+    "player": 3,
+    "signal": 3,
+    "asset": 24,
+    "position": "L",
+    "date_opened": "2019-02-11T13:00:35",
+    "price_opened": "34100.00",
+    "date_closed": "2019-08-01T11:37:18",
+    "price_closed": "37350.00",
+    "difference": "3250.00",
+    "change": "9.53"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 32,
+  "fields": {
+    "player": 3,
+    "signal": 3,
+    "asset": 21,
+    "position": "L",
+    "date_opened": "2019-02-11T13:06:35",
+    "price_opened": "19000.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 33,
+  "fields": {
+    "player": 3,
+    "signal": 3,
+    "asset": 21,
+    "position": "L",
+    "date_opened": "2019-02-11T13:06:35",
+    "price_opened": "19000.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 34,
+  "fields": {
+    "player": 3,
+    "signal": 3,
+    "asset": 21,
+    "position": "L",
+    "date_opened": "2019-02-11T13:06:35",
+    "price_opened": "19000.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 35,
+  "fields": {
+    "player": 3,
+    "signal": 3,
+    "asset": 21,
+    "position": "L",
+    "date_opened": "2019-02-11T13:06:35",
+    "price_opened": "19000.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 36,
+  "fields": {
+    "player": 3,
+    "signal": 3,
+    "asset": 21,
+    "position": "L",
+    "date_opened": "2019-02-11T13:06:35",
+    "price_opened": "19000.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 37,
+  "fields": {
+    "player": 3,
+    "signal": 3,
+    "asset": 21,
+    "position": "L",
+    "date_opened": "2019-02-11T13:06:35",
+    "price_opened": "19000.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 38,
+  "fields": {
+    "player": 2,
+    "signal": 3,
+    "asset": 21,
+    "position": "L",
+    "date_opened": "2019-02-11T13:21:18",
+    "price_opened": "19000.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 39,
+  "fields": {
+    "player": 2,
+    "signal": 3,
+    "asset": 21,
+    "position": "L",
+    "date_opened": "2019-02-11T13:21:18",
+    "price_opened": "19000.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 40,
+  "fields": {
+    "player": 2,
+    "signal": 3,
+    "asset": 21,
+    "position": "L",
+    "date_opened": "2019-02-11T13:21:18",
+    "price_opened": "19000.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 41,
+  "fields": {
+    "player": 2,
+    "signal": 3,
+    "asset": 21,
+    "position": "L",
+    "date_opened": "2019-02-11T13:21:18",
+    "price_opened": "19000.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 42,
+  "fields": {
+    "player": 2,
+    "signal": 3,
+    "asset": 13,
+    "position": "L",
+    "date_opened": "2019-02-11T14:30:34",
+    "price_opened": "21700.00",
+    "date_closed": "2019-07-02T11:02:24",
+    "price_closed": "23200.00",
+    "difference": "1500.00",
+    "change": "6.91"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 43,
+  "fields": {
+    "player": 2,
+    "signal": 3,
+    "asset": 13,
+    "position": "L",
+    "date_opened": "2019-02-11T14:30:34",
+    "price_opened": "21700.00",
+    "date_closed": "2019-07-02T11:02:24",
+    "price_closed": "23200.00",
+    "difference": "1500.00",
+    "change": "6.91"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 44,
+  "fields": {
+    "player": 2,
+    "signal": 3,
+    "asset": 15,
+    "position": "L",
+    "date_opened": "2019-02-11T14:37:56",
+    "price_opened": "34500.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 45,
+  "fields": {
+    "player": 2,
+    "signal": 3,
+    "asset": 15,
+    "position": "L",
+    "date_opened": "2019-02-11T14:37:56",
+    "price_opened": "34500.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 46,
+  "fields": {
+    "player": 2,
+    "signal": 2,
+    "asset": 22,
+    "position": "L",
+    "date_opened": "2019-02-11T14:42:14",
+    "price_opened": "95500.00",
+    "date_closed": "2019-05-15T10:05:06",
+    "price_closed": "135000.00",
+    "difference": "39500.00",
+    "change": "41.36"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 47,
+  "fields": {
+    "player": 2,
+    "signal": 3,
+    "asset": 5,
+    "position": "L",
+    "date_opened": "2019-02-19T09:01:55",
+    "price_opened": "49700.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 48,
+  "fields": {
+    "player": 2,
+    "signal": 3,
+    "asset": 5,
+    "position": "L",
+    "date_opened": "2019-02-19T09:01:55",
+    "price_opened": "49700.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 49,
+  "fields": {
+    "player": 2,
+    "signal": 3,
+    "asset": 5,
+    "position": "L",
+    "date_opened": "2019-02-19T09:01:55",
+    "price_opened": "49700.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 50,
+  "fields": {
+    "player": 2,
+    "signal": 3,
+    "asset": 5,
+    "position": "L",
+    "date_opened": "2019-02-19T09:01:55",
+    "price_opened": "49700.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 51,
+  "fields": {
+    "player": 2,
+    "signal": 3,
+    "asset": 5,
+    "position": "L",
+    "date_opened": "2019-02-19T09:01:55",
+    "price_opened": "49700.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 52,
+  "fields": {
+    "player": 2,
+    "signal": 3,
+    "asset": 5,
+    "position": "L",
+    "date_opened": "2019-02-19T09:01:55",
+    "price_opened": "49700.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 53,
+  "fields": {
+    "player": 3,
+    "signal": 3,
+    "asset": 19,
+    "position": "L",
+    "date_opened": "2019-02-21T09:17:19",
+    "price_opened": "28300.00",
+    "date_closed": "2019-06-18T10:08:29",
+    "price_closed": "28750.00",
+    "difference": "450.00",
+    "change": "1.59"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 54,
+  "fields": {
+    "player": 3,
+    "signal": 3,
+    "asset": 13,
+    "position": "L",
+    "date_opened": "2019-02-21T12:55:47",
+    "price_opened": "21800.00",
+    "date_closed": "2019-07-02T12:39:55",
+    "price_closed": "23300.00",
+    "difference": "1500.00",
+    "change": "6.88"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 55,
+  "fields": {
+    "player": 2,
+    "signal": 3,
+    "asset": 92,
+    "position": "L",
+    "date_opened": "2019-02-28T09:12:10",
+    "price_opened": "30800.00",
+    "date_closed": "2019-04-23T11:24:30",
+    "price_closed": "34300.00",
+    "difference": "3500.00",
+    "change": "11.36"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 56,
+  "fields": {
+    "player": 2,
+    "signal": 3,
+    "asset": 33,
+    "position": "L",
+    "date_opened": "2019-02-28T15:30:14",
+    "price_opened": "44350.00",
+    "date_closed": "2019-06-19T09:10:03",
+    "price_closed": "45350.00",
+    "difference": "1000.00",
+    "change": "2.25"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 57,
+  "fields": {
+    "player": 2,
+    "signal": 3,
+    "asset": 58,
+    "position": "L",
+    "date_opened": "2019-03-04T10:38:23",
+    "price_opened": "42100.00",
+    "date_closed": "2019-06-14T15:30:43",
+    "price_closed": "42300.00",
+    "difference": "200.00",
+    "change": "0.48"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 58,
+  "fields": {
+    "player": 3,
+    "signal": 3,
+    "asset": 58,
+    "position": "L",
+    "date_opened": "2019-03-05T10:42:45",
+    "price_opened": "41000.00",
+    "date_closed": "2019-06-10T13:27:26",
+    "price_closed": "41500.00",
+    "difference": "500.00",
+    "change": "1.22"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 59,
+  "fields": {
+    "player": 3,
+    "signal": 3,
+    "asset": 33,
+    "position": "L",
+    "date_opened": "2019-03-05T14:32:25",
+    "price_opened": "43050.00",
+    "date_closed": "2019-05-16T13:51:43",
+    "price_closed": "46200.00",
+    "difference": "3150.00",
+    "change": "7.32"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 60,
+  "fields": {
+    "player": 3,
+    "signal": 3,
+    "asset": 122,
+    "position": "L",
+    "date_opened": "2019-03-06T17:40:30",
+    "price_opened": "33200.00",
+    "date_closed": "2019-04-12T09:00:10",
+    "price_closed": "38300.00",
+    "difference": "5100.00",
+    "change": "15.36"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 61,
+  "fields": {
+    "player": 3,
+    "signal": 3,
+    "asset": 15,
+    "position": "L",
+    "date_opened": "2019-03-15T11:11:30",
+    "price_opened": "31500.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 62,
+  "fields": {
+    "player": 3,
+    "signal": 3,
+    "asset": 15,
+    "position": "L",
+    "date_opened": "2019-03-15T11:11:30",
+    "price_opened": "31500.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 63,
+  "fields": {
+    "player": 2,
+    "signal": 2,
+    "asset": 22,
+    "position": "L",
+    "date_opened": "2019-03-21T09:10:09",
+    "price_opened": "103000.00",
+    "date_closed": "2019-05-15T10:05:06",
+    "price_closed": "135000.00",
+    "difference": "32000.00",
+    "change": "31.07"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 64,
+  "fields": {
+    "player": 4,
+    "signal": 3,
+    "asset": 9,
+    "position": "L",
+    "date_opened": "2019-03-22T14:58:29",
+    "price_opened": "7540.00",
+    "date_closed": "2019-06-25T02:32:48",
+    "price_closed": "8180.00",
+    "difference": "640.00",
+    "change": "8.49"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 65,
+  "fields": {
+    "player": 4,
+    "signal": 3,
+    "asset": 9,
+    "position": "L",
+    "date_opened": "2019-03-22T14:58:29",
+    "price_opened": "7540.00",
+    "date_closed": "2019-06-25T02:32:48",
+    "price_closed": "8180.00",
+    "difference": "640.00",
+    "change": "8.49"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 66,
+  "fields": {
+    "player": 4,
+    "signal": 3,
+    "asset": 9,
+    "position": "L",
+    "date_opened": "2019-03-22T14:58:29",
+    "price_opened": "7540.00",
+    "date_closed": "2019-06-25T02:32:48",
+    "price_closed": "8180.00",
+    "difference": "640.00",
+    "change": "8.49"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 67,
+  "fields": {
+    "player": 4,
+    "signal": 3,
+    "asset": 9,
+    "position": "L",
+    "date_opened": "2019-03-22T14:58:29",
+    "price_opened": "7540.00",
+    "date_closed": "2019-06-25T02:32:48",
+    "price_closed": "8180.00",
+    "difference": "640.00",
+    "change": "8.49"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 68,
+  "fields": {
+    "player": 7,
+    "signal": 3,
+    "asset": 5,
+    "position": "L",
+    "date_opened": "2019-03-22T15:30:10",
+    "price_opened": "45650.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 69,
+  "fields": {
+    "player": 7,
+    "signal": 3,
+    "asset": 5,
+    "position": "L",
+    "date_opened": "2019-03-22T15:30:10",
+    "price_opened": "45650.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 70,
+  "fields": {
+    "player": 7,
+    "signal": 3,
+    "asset": 5,
+    "position": "L",
+    "date_opened": "2019-03-22T15:30:10",
+    "price_opened": "45650.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 71,
+  "fields": {
+    "player": 7,
+    "signal": 3,
+    "asset": 5,
+    "position": "L",
+    "date_opened": "2019-03-22T15:30:10",
+    "price_opened": "45650.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 72,
+  "fields": {
+    "player": 7,
+    "signal": 3,
+    "asset": 21,
+    "position": "L",
+    "date_opened": "2019-03-22T15:30:18",
+    "price_opened": "20800.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 73,
+  "fields": {
+    "player": 7,
+    "signal": 3,
+    "asset": 21,
+    "position": "L",
+    "date_opened": "2019-03-22T15:30:18",
+    "price_opened": "20800.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 74,
+  "fields": {
+    "player": 7,
+    "signal": 3,
+    "asset": 21,
+    "position": "L",
+    "date_opened": "2019-03-22T15:30:18",
+    "price_opened": "20800.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 75,
+  "fields": {
+    "player": 7,
+    "signal": 3,
+    "asset": 21,
+    "position": "L",
+    "date_opened": "2019-03-22T15:30:18",
+    "price_opened": "20800.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 76,
+  "fields": {
+    "player": 7,
+    "signal": 3,
+    "asset": 11,
+    "position": "L",
+    "date_opened": "2019-03-25T09:08:30",
+    "price_opened": "99900.00",
+    "date_closed": "2019-04-24T11:51:23",
+    "price_closed": "111500.00",
+    "difference": "11600.00",
+    "change": "11.61"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 77,
+  "fields": {
+    "player": 2,
+    "signal": 3,
+    "asset": 15,
+    "position": "L",
+    "date_opened": "2019-03-25T09:23:15",
+    "price_opened": "31700.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 78,
+  "fields": {
+    "player": 2,
+    "signal": 3,
+    "asset": 15,
+    "position": "L",
+    "date_opened": "2019-03-25T09:23:15",
+    "price_opened": "31700.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 79,
+  "fields": {
+    "player": 7,
+    "signal": 3,
+    "asset": 21,
+    "position": "L",
+    "date_opened": "2019-03-27T09:08:30",
+    "price_opened": "19400.00",
+    "date_closed": "2019-04-24T10:08:16",
+    "price_closed": "20700.00",
+    "difference": "1300.00",
+    "change": "6.70"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 80,
+  "fields": {
+    "player": 7,
+    "signal": 3,
+    "asset": 5,
+    "position": "L",
+    "date_opened": "2019-03-27T09:27:15",
+    "price_opened": "45150.00",
+    "date_closed": "2019-04-24T09:16:31",
+    "price_closed": "47800.00",
+    "difference": "2650.00",
+    "change": "5.87"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 81,
+  "fields": {
+    "player": 6,
+    "signal": 3,
+    "asset": 15,
+    "position": "L",
+    "date_opened": "2019-04-01T09:00:22",
+    "price_opened": "29750.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 82,
+  "fields": {
+    "player": 6,
+    "signal": 3,
+    "asset": 15,
+    "position": "L",
+    "date_opened": "2019-04-01T09:00:22",
+    "price_opened": "29750.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 83,
+  "fields": {
+    "player": 6,
+    "signal": 3,
+    "asset": 15,
+    "position": "L",
+    "date_opened": "2019-04-01T09:00:22",
+    "price_opened": "29750.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 84,
+  "fields": {
+    "player": 6,
+    "signal": 3,
+    "asset": 15,
+    "position": "L",
+    "date_opened": "2019-04-01T09:00:22",
+    "price_opened": "29750.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 85,
+  "fields": {
+    "player": 6,
+    "signal": 3,
+    "asset": 15,
+    "position": "L",
+    "date_opened": "2019-04-01T09:00:22",
+    "price_opened": "29750.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 86,
+  "fields": {
+    "player": 6,
+    "signal": 3,
+    "asset": 15,
+    "position": "L",
+    "date_opened": "2019-04-01T09:00:22",
+    "price_opened": "29750.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 87,
+  "fields": {
+    "player": 6,
+    "signal": 2,
+    "asset": 13,
+    "position": "L",
+    "date_opened": "2019-04-02T09:02:15",
+    "price_opened": "21850.00",
+    "date_closed": "2019-07-03T10:03:55",
+    "price_closed": "23250.00",
+    "difference": "1400.00",
+    "change": "6.41"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 88,
+  "fields": {
+    "player": 6,
+    "signal": 3,
+    "asset": 13,
+    "position": "L",
+    "date_opened": "2019-04-02T09:14:52",
+    "price_opened": "21850.00",
+    "date_closed": "2019-07-03T10:03:55",
+    "price_closed": "23250.00",
+    "difference": "1400.00",
+    "change": "6.41"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 89,
+  "fields": {
+    "player": 6,
+    "signal": 3,
+    "asset": 13,
+    "position": "L",
+    "date_opened": "2019-04-02T09:14:52",
+    "price_opened": "21850.00",
+    "date_closed": "2019-07-03T10:03:55",
+    "price_closed": "23250.00",
+    "difference": "1400.00",
+    "change": "6.41"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 90,
+  "fields": {
+    "player": 6,
+    "signal": 3,
+    "asset": 33,
+    "position": "L",
+    "date_opened": "2019-04-03T09:00:22",
+    "price_opened": "44400.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 91,
+  "fields": {
+    "player": 6,
+    "signal": 3,
+    "asset": 33,
+    "position": "L",
+    "date_opened": "2019-04-03T09:00:22",
+    "price_opened": "44400.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 92,
+  "fields": {
+    "player": 2,
+    "signal": 3,
+    "asset": 58,
+    "position": "L",
+    "date_opened": "2019-04-24T13:12:21",
+    "price_opened": "38700.00",
+    "date_closed": "2019-06-10T13:31:39",
+    "price_closed": "41500.00",
+    "difference": "2800.00",
+    "change": "7.24"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 93,
+  "fields": {
+    "player": 7,
+    "signal": 3,
+    "asset": 23,
+    "position": "L",
+    "date_opened": "2019-04-25T12:12:03",
+    "price_opened": "7290.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 94,
+  "fields": {
+    "player": 7,
+    "signal": 3,
+    "asset": 23,
+    "position": "L",
+    "date_opened": "2019-04-25T12:12:03",
+    "price_opened": "7290.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 95,
+  "fields": {
+    "player": 7,
+    "signal": 3,
+    "asset": 15,
+    "position": "L",
+    "date_opened": "2019-04-29T11:23:01",
+    "price_opened": "28200.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 96,
+  "fields": {
+    "player": 7,
+    "signal": 3,
+    "asset": 5,
+    "position": "L",
+    "date_opened": "2019-05-07T10:25:16",
+    "price_opened": "44500.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 97,
+  "fields": {
+    "player": 7,
+    "signal": 3,
+    "asset": 5,
+    "position": "L",
+    "date_opened": "2019-05-07T10:25:16",
+    "price_opened": "44500.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 98,
+  "fields": {
+    "player": 7,
+    "signal": 3,
+    "asset": 21,
+    "position": "L",
+    "date_opened": "2019-05-07T11:49:23",
+    "price_opened": "18650.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 99,
+  "fields": {
+    "player": 7,
+    "signal": 3,
+    "asset": 21,
+    "position": "L",
+    "date_opened": "2019-05-07T11:49:23",
+    "price_opened": "18650.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 100,
+  "fields": {
+    "player": 7,
+    "signal": 3,
+    "asset": 18,
+    "position": "L",
+    "date_opened": "2019-05-08T09:01:39",
+    "price_opened": "100000.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 101,
+  "fields": {
+    "player": 7,
+    "signal": 3,
+    "asset": 23,
+    "position": "L",
+    "date_opened": "2019-05-09T14:55:58",
+    "price_opened": "6870.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 102,
+  "fields": {
+    "player": 7,
+    "signal": 3,
+    "asset": 23,
+    "position": "L",
+    "date_opened": "2019-05-09T14:55:58",
+    "price_opened": "6870.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 103,
+  "fields": {
+    "player": 7,
+    "signal": 3,
+    "asset": 9,
+    "position": "L",
+    "date_opened": "2019-05-13T11:20:34",
+    "price_opened": "7210.00",
+    "date_closed": "2019-06-20T08:49:12",
+    "price_closed": "7990.00",
+    "difference": "780.00",
+    "change": "10.82"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 104,
+  "fields": {
+    "player": 2,
+    "signal": 3,
+    "asset": 5,
+    "position": "L",
+    "date_opened": "2019-05-15T10:00:43",
+    "price_opened": "42550.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 105,
+  "fields": {
+    "player": 2,
+    "signal": 3,
+    "asset": 5,
+    "position": "L",
+    "date_opened": "2019-05-15T10:00:43",
+    "price_opened": "42550.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 106,
+  "fields": {
+    "player": 2,
+    "signal": 3,
+    "asset": 67,
+    "position": "L",
+    "date_opened": "2019-05-16T09:43:07",
+    "price_opened": "7880.00",
+    "date_closed": "2019-06-18T11:26:31",
+    "price_closed": "7990.00",
+    "difference": "110.00",
+    "change": "1.40"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 107,
+  "fields": {
+    "player": 2,
+    "signal": 3,
+    "asset": 101,
+    "position": "L",
+    "date_opened": "2019-05-16T09:49:21",
+    "price_opened": "17350.00",
+    "date_closed": "2019-06-18T12:48:52",
+    "price_closed": "17700.00",
+    "difference": "350.00",
+    "change": "2.02"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 108,
+  "fields": {
+    "player": 2,
+    "signal": 3,
+    "asset": 9,
+    "position": "L",
+    "date_opened": "2019-05-16T09:50:13",
+    "price_opened": "7250.00",
+    "date_closed": "2019-06-19T09:20:27",
+    "price_closed": "8000.00",
+    "difference": "750.00",
+    "change": "10.34"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 109,
+  "fields": {
+    "player": 2,
+    "signal": 3,
+    "asset": 9,
+    "position": "L",
+    "date_opened": "2019-05-16T09:50:13",
+    "price_opened": "7250.00",
+    "date_closed": "2019-06-19T09:20:27",
+    "price_closed": "8000.00",
+    "difference": "750.00",
+    "change": "10.34"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 110,
+  "fields": {
+    "player": 7,
+    "signal": 3,
+    "asset": 15,
+    "position": "L",
+    "date_opened": "2019-05-21T08:52:11",
+    "price_opened": "25250.00",
+    "date_closed": "2019-07-26T09:18:01",
+    "price_closed": "27500.00",
+    "difference": "2250.00",
+    "change": "8.91"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 111,
+  "fields": {
+    "player": 7,
+    "signal": 3,
+    "asset": 11,
+    "position": "L",
+    "date_opened": "2019-05-21T08:56:10",
+    "price_opened": "95500.00",
+    "date_closed": "2019-07-01T11:49:44",
+    "price_closed": "99900.00",
+    "difference": "4400.00",
+    "change": "4.61"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 112,
+  "fields": {
+    "player": 7,
+    "signal": 3,
+    "asset": 129,
+    "position": "L",
+    "date_opened": "2019-05-21T09:00:03",
+    "price_opened": "36150.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 113,
+  "fields": {
+    "player": 7,
+    "signal": 3,
+    "asset": 41,
+    "position": "L",
+    "date_opened": "2019-05-21T09:09:03",
+    "price_opened": "103500.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 114,
+  "fields": {
+    "player": 4,
+    "signal": 3,
+    "asset": 15,
+    "position": "L",
+    "date_opened": "2019-05-21T09:50:18",
+    "price_opened": "25100.00",
+    "date_closed": "2019-07-26T14:52:28",
+    "price_closed": "27300.00",
+    "difference": "2200.00",
+    "change": "8.76"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 115,
+  "fields": {
+    "player": 4,
+    "signal": 3,
+    "asset": 15,
+    "position": "L",
+    "date_opened": "2019-05-21T09:50:18",
+    "price_opened": "25100.00",
+    "date_closed": "2019-07-26T14:52:28",
+    "price_closed": "27300.00",
+    "difference": "2200.00",
+    "change": "8.76"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 116,
+  "fields": {
+    "player": 7,
+    "signal": 3,
+    "asset": 89,
+    "position": "L",
+    "date_opened": "2019-05-22T10:34:43",
+    "price_opened": "6010.00",
+    "date_closed": "2019-06-20T08:46:16",
+    "price_closed": "6750.00",
+    "difference": "740.00",
+    "change": "12.31"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 117,
+  "fields": {
+    "player": 7,
+    "signal": 3,
+    "asset": 98,
+    "position": "L",
+    "date_opened": "2019-05-22T10:58:34",
+    "price_opened": "58700.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 118,
+  "fields": {
+    "player": 7,
+    "signal": 3,
+    "asset": 98,
+    "position": "L",
+    "date_opened": "2019-05-22T10:58:34",
+    "price_opened": "58700.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 119,
+  "fields": {
+    "player": 7,
+    "signal": 3,
+    "asset": 101,
+    "position": "L",
+    "date_opened": "2019-05-22T13:11:51",
+    "price_opened": "16950.00",
+    "date_closed": "2019-06-20T11:16:01",
+    "price_closed": "18100.00",
+    "difference": "1150.00",
+    "change": "6.78"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 120,
+  "fields": {
+    "player": 6,
+    "signal": 3,
+    "asset": 15,
+    "position": "L",
+    "date_opened": "2019-05-22T15:13:07",
+    "price_opened": "25050.00",
+    "date_closed": "2019-07-25T10:06:34",
+    "price_closed": "27350.00",
+    "difference": "2300.00",
+    "change": "9.18"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 121,
+  "fields": {
+    "player": 6,
+    "signal": 3,
+    "asset": 15,
+    "position": "L",
+    "date_opened": "2019-05-22T15:13:07",
+    "price_opened": "25050.00",
+    "date_closed": "2019-07-25T10:06:34",
+    "price_closed": "27350.00",
+    "difference": "2300.00",
+    "change": "9.18"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 122,
+  "fields": {
+    "player": 7,
+    "signal": 3,
+    "asset": 21,
+    "position": "L",
+    "date_opened": "2019-05-29T13:42:51",
+    "price_opened": "16500.00",
+    "date_closed": "2019-06-20T10:16:01",
+    "price_closed": "17400.00",
+    "difference": "900.00",
+    "change": "5.45"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 123,
+  "fields": {
+    "player": 7,
+    "signal": 3,
+    "asset": 5,
+    "position": "L",
+    "date_opened": "2019-05-29T13:49:47",
+    "price_opened": "40100.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 124,
+  "fields": {
+    "player": 7,
+    "signal": 3,
+    "asset": 5,
+    "position": "L",
+    "date_opened": "2019-05-29T13:49:47",
+    "price_opened": "40100.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 125,
+  "fields": {
+    "player": 3,
+    "signal": 3,
+    "asset": 24,
+    "position": "S",
+    "date_opened": "2019-06-10T09:08:54",
+    "price_opened": "34250.00",
+    "date_closed": "2019-08-01T11:37:14",
+    "price_closed": "37350.00",
+    "difference": "3100.00",
+    "change": "-9.05"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 126,
+  "fields": {
+    "player": 6,
+    "signal": 3,
+    "asset": 15,
+    "position": "S",
+    "date_opened": "2019-06-10T09:48:23",
+    "price_opened": "25600.00",
+    "date_closed": "2019-07-25T14:30:13",
+    "price_closed": "27350.00",
+    "difference": "-1750.00",
+    "change": "-6.84"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 127,
+  "fields": {
+    "player": 6,
+    "signal": 3,
+    "asset": 33,
+    "position": "S",
+    "date_opened": "2019-06-10T09:52:45",
+    "price_opened": "45000.00",
+    "date_closed": "2019-07-08T11:29:56",
+    "price_closed": "43950.00",
+    "difference": "1050.00",
+    "change": "2.33"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 128,
+  "fields": {
+    "player": 4,
+    "signal": 3,
+    "asset": 9,
+    "position": "S",
+    "date_opened": "2019-06-10T13:48:25",
+    "price_opened": "7670.00",
+    "date_closed": "2019-06-25T14:21:00",
+    "price_closed": "8180.00",
+    "difference": "-510.00",
+    "change": "-6.65"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 129,
+  "fields": {
+    "player": 4,
+    "signal": 3,
+    "asset": 15,
+    "position": "S",
+    "date_opened": "2019-06-10T14:39:08",
+    "price_opened": "25400.00",
+    "date_closed": "2019-07-26T14:54:17",
+    "price_closed": "27300.00",
+    "difference": "-1850.00",
+    "change": "-7.28"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 130,
+  "fields": {
+    "player": 2,
+    "signal": 3,
+    "asset": 13,
+    "position": "S",
+    "date_opened": "2019-06-19T09:23:10",
+    "price_opened": "22100.00",
+    "date_closed": "2019-07-25T10:37:12",
+    "price_closed": "20100.00",
+    "difference": "2000.00",
+    "change": "9.05"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 131,
+  "fields": {
+    "player": 2,
+    "signal": 3,
+    "asset": 9,
+    "position": "L",
+    "date_opened": "2019-06-19T09:42:10",
+    "price_opened": "8000.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 132,
+  "fields": {
+    "player": 2,
+    "signal": 3,
+    "asset": 9,
+    "position": "L",
+    "date_opened": "2019-06-19T09:42:10",
+    "price_opened": "8000.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 133,
+  "fields": {
+    "player": 2,
+    "signal": 3,
+    "asset": 9,
+    "position": "S",
+    "date_opened": "2019-06-19T09:46:22",
+    "price_opened": "8010.00",
+    "date_closed": "2019-08-05T09:50:22",
+    "price_closed": "7190.00",
+    "difference": "830.00",
+    "change": "10.36"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 134,
+  "fields": {
+    "player": 6,
+    "signal": 3,
+    "asset": 13,
+    "position": "S",
+    "date_opened": "2019-06-19T09:52:29",
+    "price_opened": "22350.00",
+    "date_closed": "2019-07-03T09:55:24",
+    "price_closed": "23450.00",
+    "difference": "-1100.00",
+    "change": "-4.92"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 135,
+  "fields": {
+    "player": 8,
+    "signal": 3,
+    "asset": 13,
+    "position": "S",
+    "date_opened": "2019-06-19T10:40:28",
+    "price_opened": "22700.00",
+    "date_closed": "2019-07-25T10:52:55",
+    "price_closed": "20100.00",
+    "difference": "2600.00",
+    "change": "11.45"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 136,
+  "fields": {
+    "player": 8,
+    "signal": 3,
+    "asset": 13,
+    "position": "L",
+    "date_opened": "2019-06-19T10:40:32",
+    "price_opened": "22650.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 137,
+  "fields": {
+    "player": 8,
+    "signal": 3,
+    "asset": 13,
+    "position": "L",
+    "date_opened": "2019-06-19T10:40:32",
+    "price_opened": "22650.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 138,
+  "fields": {
+    "player": 8,
+    "signal": 3,
+    "asset": 9,
+    "position": "S",
+    "date_opened": "2019-06-19T10:44:17",
+    "price_opened": "8010.00",
+    "date_closed": "2019-08-05T10:11:29",
+    "price_closed": "7190.00",
+    "difference": "830.00",
+    "change": "10.36"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 139,
+  "fields": {
+    "player": 8,
+    "signal": 3,
+    "asset": 9,
+    "position": "L",
+    "date_opened": "2019-06-19T10:48:04",
+    "price_opened": "8000.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 140,
+  "fields": {
+    "player": 8,
+    "signal": 3,
+    "asset": 9,
+    "position": "L",
+    "date_opened": "2019-06-19T10:48:04",
+    "price_opened": "8000.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 141,
+  "fields": {
+    "player": 2,
+    "signal": 3,
+    "asset": 5,
+    "position": "S",
+    "date_opened": "2019-06-24T09:08:36",
+    "price_opened": "42600.00",
+    "date_closed": "2019-08-01T09:03:03",
+    "price_closed": "38500.00",
+    "difference": "4150.00",
+    "change": "9.74"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 142,
+  "fields": {
+    "player": 4,
+    "signal": 3,
+    "asset": 9,
+    "position": "S",
+    "date_opened": "2019-06-25T14:33:07",
+    "price_opened": "8180.00",
+    "date_closed": "2019-08-05T10:06:22",
+    "price_closed": "7180.00",
+    "difference": "1000.00",
+    "change": "12.22"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 143,
+  "fields": {
+    "player": 11,
+    "signal": 3,
+    "asset": 13,
+    "position": "S",
+    "date_opened": "2019-07-01T09:01:40",
+    "price_opened": "23200.00",
+    "date_closed": "2019-07-25T09:26:19",
+    "price_closed": "20450.00",
+    "difference": "2750.00",
+    "change": "11.85"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 144,
+  "fields": {
+    "player": 11,
+    "signal": 3,
+    "asset": 9,
+    "position": "S",
+    "date_opened": "2019-07-01T09:27:45",
+    "price_opened": "8330.00",
+    "date_closed": "2019-08-02T10:15:10",
+    "price_closed": "7310.00",
+    "difference": "1020.00",
+    "change": "12.24"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 145,
+  "fields": {
+    "player": 5,
+    "signal": 3,
+    "asset": 5,
+    "position": "S",
+    "date_opened": "2019-07-01T15:09:53",
+    "price_opened": "42900.00",
+    "date_closed": "2019-07-30T09:00:15",
+    "price_closed": "38700.00",
+    "difference": "4200.00",
+    "change": "9.79"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 146,
+  "fields": {
+    "player": 8,
+    "signal": 3,
+    "asset": 33,
+    "position": "S",
+    "date_opened": "2019-07-01T15:17:23",
+    "price_opened": "46750.00",
+    "date_closed": "2019-07-08T13:49:09",
+    "price_closed": "44000.00",
+    "difference": "2750.00",
+    "change": "5.88"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 147,
+  "fields": {
+    "player": 8,
+    "signal": 3,
+    "asset": 33,
+    "position": "L",
+    "date_opened": "2019-07-01T15:18:53",
+    "price_opened": "46650.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 148,
+  "fields": {
+    "player": 8,
+    "signal": 3,
+    "asset": 33,
+    "position": "L",
+    "date_opened": "2019-07-01T15:18:53",
+    "price_opened": "46650.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 149,
+  "fields": {
+    "player": 2,
+    "signal": 3,
+    "asset": 2,
+    "position": "S",
+    "date_opened": "2019-07-02T09:13:06",
+    "price_opened": "7940.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 150,
+  "fields": {
+    "player": 11,
+    "signal": 3,
+    "asset": 13,
+    "position": "L",
+    "date_opened": "2019-07-02T09:15:01",
+    "price_opened": "23150.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 151,
+  "fields": {
+    "player": 11,
+    "signal": 3,
+    "asset": 13,
+    "position": "L",
+    "date_opened": "2019-07-02T09:15:01",
+    "price_opened": "23150.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 152,
+  "fields": {
+    "player": 2,
+    "signal": 3,
+    "asset": 2,
+    "position": "L",
+    "date_opened": "2019-07-02T09:17:55",
+    "price_opened": "10415.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 153,
+  "fields": {
+    "player": 2,
+    "signal": 3,
+    "asset": 2,
+    "position": "L",
+    "date_opened": "2019-07-02T09:17:55",
+    "price_opened": "10415.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 154,
+  "fields": {
+    "player": 8,
+    "signal": 3,
+    "asset": 1,
+    "position": "S",
+    "date_opened": "2019-07-02T09:23:14",
+    "price_opened": "7270.00",
+    "date_closed": "2019-08-05T10:30:44",
+    "price_closed": "8285.00",
+    "difference": "1015.00",
+    "change": "13.96"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 155,
+  "fields": {
+    "player": 8,
+    "signal": 3,
+    "asset": 1,
+    "position": "L",
+    "date_opened": "2019-07-02T09:23:32",
+    "price_opened": "12600.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 156,
+  "fields": {
+    "player": 8,
+    "signal": 3,
+    "asset": 1,
+    "position": "L",
+    "date_opened": "2019-07-02T09:23:32",
+    "price_opened": "12600.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 157,
+  "fields": {
+    "player": 2,
+    "signal": 3,
+    "asset": 1,
+    "position": "S",
+    "date_opened": "2019-07-02T09:23:43",
+    "price_opened": "7230.00",
+    "date_closed": "2019-08-05T10:03:10",
+    "price_closed": "8210.00",
+    "difference": "980.00",
+    "change": "13.55"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 158,
+  "fields": {
+    "player": 2,
+    "signal": 3,
+    "asset": 1,
+    "position": "L",
+    "date_opened": "2019-07-02T09:23:43",
+    "price_opened": "12595.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 159,
+  "fields": {
+    "player": 2,
+    "signal": 3,
+    "asset": 1,
+    "position": "L",
+    "date_opened": "2019-07-02T09:23:43",
+    "price_opened": "12595.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 160,
+  "fields": {
+    "player": 11,
+    "signal": 3,
+    "asset": 9,
+    "position": "L",
+    "date_opened": "2019-07-02T09:27:18",
+    "price_opened": "8320.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 161,
+  "fields": {
+    "player": 11,
+    "signal": 3,
+    "asset": 9,
+    "position": "L",
+    "date_opened": "2019-07-02T09:27:18",
+    "price_opened": "8320.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 162,
+  "fields": {
+    "player": 8,
+    "signal": 3,
+    "asset": 2,
+    "position": "S",
+    "date_opened": "2019-07-02T09:35:49",
+    "price_opened": "7935.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 163,
+  "fields": {
+    "player": 8,
+    "signal": 3,
+    "asset": 2,
+    "position": "L",
+    "date_opened": "2019-07-02T09:36:43",
+    "price_opened": "10415.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 164,
+  "fields": {
+    "player": 8,
+    "signal": 3,
+    "asset": 2,
+    "position": "L",
+    "date_opened": "2019-07-02T09:36:43",
+    "price_opened": "10415.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 165,
+  "fields": {
+    "player": 11,
+    "signal": 3,
+    "asset": 1,
+    "position": "S",
+    "date_opened": "2019-07-02T09:44:06",
+    "price_opened": "7240.00",
+    "date_closed": "2019-08-05T10:18:24",
+    "price_closed": "8250.00",
+    "difference": "1010.00",
+    "change": "13.95"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 166,
+  "fields": {
+    "player": 8,
+    "signal": 3,
+    "asset": 1,
+    "position": "L",
+    "date_opened": "2019-07-02T11:07:18",
+    "price_opened": "12600.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 167,
+  "fields": {
+    "player": 8,
+    "signal": 3,
+    "asset": 1,
+    "position": "L",
+    "date_opened": "2019-07-02T11:07:18",
+    "price_opened": "12600.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 168,
+  "fields": {
+    "player": 2,
+    "signal": 3,
+    "asset": 13,
+    "position": "L",
+    "date_opened": "2019-07-02T11:12:10",
+    "price_opened": "23150.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 169,
+  "fields": {
+    "player": 2,
+    "signal": 3,
+    "asset": 13,
+    "position": "L",
+    "date_opened": "2019-07-02T11:12:10",
+    "price_opened": "23150.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 170,
+  "fields": {
+    "player": 3,
+    "signal": 3,
+    "asset": 13,
+    "position": "L",
+    "date_opened": "2019-07-02T14:07:08",
+    "price_opened": "23200.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 171,
+  "fields": {
+    "player": 3,
+    "signal": 3,
+    "asset": 13,
+    "position": "L",
+    "date_opened": "2019-07-02T14:07:08",
+    "price_opened": "23200.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 172,
+  "fields": {
+    "player": 3,
+    "signal": 3,
+    "asset": 13,
+    "position": "S",
+    "date_opened": "2019-07-02T14:07:15",
+    "price_opened": "23250.00",
+    "date_closed": "2019-07-25T10:04:23",
+    "price_closed": "20100.00",
+    "difference": "3150.00",
+    "change": "13.55"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 173,
+  "fields": {
+    "player": 6,
+    "signal": 3,
+    "asset": 13,
+    "position": "S",
+    "date_opened": "2019-07-03T10:09:52",
+    "price_opened": "23250.00",
+    "date_closed": "2019-07-25T11:24:25",
+    "price_closed": "20200.00",
+    "difference": "3050.00",
+    "change": "13.12"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 174,
+  "fields": {
+    "player": 6,
+    "signal": 3,
+    "asset": 13,
+    "position": "L",
+    "date_opened": "2019-07-03T10:10:23",
+    "price_opened": "23250.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 175,
+  "fields": {
+    "player": 6,
+    "signal": 3,
+    "asset": 13,
+    "position": "L",
+    "date_opened": "2019-07-03T10:10:23",
+    "price_opened": "23250.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 176,
+  "fields": {
+    "player": 3,
+    "signal": 3,
+    "asset": 1,
+    "position": "S",
+    "date_opened": "2019-07-03T11:06:20",
+    "price_opened": "7570.00",
+    "date_closed": "2019-08-05T09:40:07",
+    "price_closed": "8170.00",
+    "difference": "600.00",
+    "change": "7.93"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 177,
+  "fields": {
+    "player": 11,
+    "signal": 3,
+    "asset": 2,
+    "position": "L",
+    "date_opened": "2019-07-04T09:34:45",
+    "price_opened": "10410.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 178,
+  "fields": {
+    "player": 11,
+    "signal": 3,
+    "asset": 2,
+    "position": "L",
+    "date_opened": "2019-07-04T09:34:45",
+    "price_opened": "10410.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 179,
+  "fields": {
+    "player": 11,
+    "signal": 3,
+    "asset": 2,
+    "position": "S",
+    "date_opened": "2019-07-04T09:38:01",
+    "price_opened": "7930.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 180,
+  "fields": {
+    "player": 11,
+    "signal": 3,
+    "asset": 1,
+    "position": "L",
+    "date_opened": "2019-07-04T09:43:20",
+    "price_opened": "12650.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 181,
+  "fields": {
+    "player": 11,
+    "signal": 3,
+    "asset": 1,
+    "position": "L",
+    "date_opened": "2019-07-04T09:43:20",
+    "price_opened": "12650.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 182,
+  "fields": {
+    "player": 8,
+    "signal": 3,
+    "asset": 20,
+    "position": "S",
+    "date_opened": "2019-07-08T09:26:55",
+    "price_opened": "14100.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 183,
+  "fields": {
+    "player": 8,
+    "signal": 3,
+    "asset": 20,
+    "position": "L",
+    "date_opened": "2019-07-08T09:27:43",
+    "price_opened": "14050.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 184,
+  "fields": {
+    "player": 8,
+    "signal": 3,
+    "asset": 20,
+    "position": "L",
+    "date_opened": "2019-07-08T09:27:43",
+    "price_opened": "14050.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 185,
+  "fields": {
+    "player": 8,
+    "signal": 3,
+    "asset": 26,
+    "position": "L",
+    "date_opened": "2019-07-08T09:53:37",
+    "price_opened": "44100.00",
+    "date_closed": "2019-07-24T09:23:54",
+    "price_closed": "46650.00",
+    "difference": "2550.00",
+    "change": "5.78"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 186,
+  "fields": {
+    "player": 8,
+    "signal": 3,
+    "asset": 26,
+    "position": "L",
+    "date_opened": "2019-07-08T09:53:37",
+    "price_opened": "44100.00",
+    "date_closed": "2019-07-24T09:23:54",
+    "price_closed": "46650.00",
+    "difference": "2550.00",
+    "change": "5.78"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 187,
+  "fields": {
+    "player": 8,
+    "signal": 3,
+    "asset": 26,
+    "position": "S",
+    "date_opened": "2019-07-08T09:53:48",
+    "price_opened": "44150.00",
+    "date_closed": "2019-07-24T09:23:58",
+    "price_closed": "46650.00",
+    "difference": "-2500.00",
+    "change": "-5.66"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 188,
+  "fields": {
+    "player": 8,
+    "signal": 3,
+    "asset": 33,
+    "position": "S",
+    "date_opened": "2019-07-08T13:55:29",
+    "price_opened": "43950.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 189,
+  "fields": {
+    "player": 8,
+    "signal": 3,
+    "asset": 33,
+    "position": "L",
+    "date_opened": "2019-07-08T13:57:38",
+    "price_opened": "43850.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 190,
+  "fields": {
+    "player": 8,
+    "signal": 3,
+    "asset": 33,
+    "position": "L",
+    "date_opened": "2019-07-08T13:57:38",
+    "price_opened": "43850.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 191,
+  "fields": {
+    "player": 6,
+    "signal": 3,
+    "asset": 33,
+    "position": "L",
+    "date_opened": "2019-07-08T14:31:34",
+    "price_opened": "43800.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 192,
+  "fields": {
+    "player": 6,
+    "signal": 3,
+    "asset": 33,
+    "position": "L",
+    "date_opened": "2019-07-08T14:31:34",
+    "price_opened": "43800.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 193,
+  "fields": {
+    "player": 6,
+    "signal": 3,
+    "asset": 33,
+    "position": "S",
+    "date_opened": "2019-07-08T14:56:59",
+    "price_opened": "43800.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 194,
+  "fields": {
+    "player": 11,
+    "signal": 3,
+    "asset": 33,
+    "position": "S",
+    "date_opened": "2019-07-09T09:06:42",
+    "price_opened": "43700.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 195,
+  "fields": {
+    "player": 11,
+    "signal": 3,
+    "asset": 33,
+    "position": "L",
+    "date_opened": "2019-07-09T09:07:39",
+    "price_opened": "43650.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 196,
+  "fields": {
+    "player": 11,
+    "signal": 3,
+    "asset": 33,
+    "position": "L",
+    "date_opened": "2019-07-09T09:07:39",
+    "price_opened": "43650.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 197,
+  "fields": {
+    "player": 11,
+    "signal": 3,
+    "asset": 51,
+    "position": "S",
+    "date_opened": "2019-07-09T09:13:24",
+    "price_opened": "4960.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 198,
+  "fields": {
+    "player": 11,
+    "signal": 3,
+    "asset": 51,
+    "position": "L",
+    "date_opened": "2019-07-09T09:15:04",
+    "price_opened": "4950.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 199,
+  "fields": {
+    "player": 11,
+    "signal": 3,
+    "asset": 51,
+    "position": "L",
+    "date_opened": "2019-07-09T09:15:04",
+    "price_opened": "4950.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 200,
+  "fields": {
+    "player": 7,
+    "signal": 3,
+    "asset": 23,
+    "position": "L",
+    "date_opened": "2019-07-09T14:37:34",
+    "price_opened": "5820.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 201,
+  "fields": {
+    "player": 7,
+    "signal": 3,
+    "asset": 129,
+    "position": "L",
+    "date_opened": "2019-07-09T14:48:22",
+    "price_opened": "32200.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 202,
+  "fields": {
+    "player": 7,
+    "signal": 3,
+    "asset": 129,
+    "position": "L",
+    "date_opened": "2019-07-09T14:48:22",
+    "price_opened": "32200.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 203,
+  "fields": {
+    "player": 7,
+    "signal": 3,
+    "asset": 129,
+    "position": "S",
+    "date_opened": "2019-07-09T15:05:36",
+    "price_opened": "32300.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 204,
+  "fields": {
+    "player": 7,
+    "signal": 3,
+    "asset": 5,
+    "position": "S",
+    "date_opened": "2019-07-10T08:43:44",
+    "price_opened": "40150.00",
+    "date_closed": "2019-08-01T09:05:34",
+    "price_closed": "38300.00",
+    "difference": "1850.00",
+    "change": "4.61"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 205,
+  "fields": {
+    "player": 7,
+    "signal": 3,
+    "asset": 5,
+    "position": "S",
+    "date_opened": "2019-07-10T09:00:21",
+    "price_opened": "40150.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 206,
+  "fields": {
+    "player": 5,
+    "signal": 3,
+    "asset": 29,
+    "position": "S",
+    "date_opened": "2019-07-10T13:48:51",
+    "price_opened": "18400.00",
+    "date_closed": "2019-07-26T09:16:01",
+    "price_closed": "16100.00",
+    "difference": "2300.00",
+    "change": "12.50"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 207,
+  "fields": {
+    "player": 7,
+    "signal": 3,
+    "asset": 23,
+    "position": "S",
+    "date_opened": "2019-07-11T09:25:37",
+    "price_opened": "5820.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 208,
+  "fields": {
+    "player": 8,
+    "signal": 3,
+    "asset": 26,
+    "position": "L",
+    "date_opened": "2019-07-24T09:39:21",
+    "price_opened": "46700.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 209,
+  "fields": {
+    "player": 8,
+    "signal": 3,
+    "asset": 26,
+    "position": "L",
+    "date_opened": "2019-07-24T09:39:21",
+    "price_opened": "46700.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 210,
+  "fields": {
+    "player": 8,
+    "signal": 3,
+    "asset": 26,
+    "position": "S",
+    "date_opened": "2019-07-24T15:16:24",
+    "price_opened": "46000.00",
+    "date_closed": "2019-07-26T15:30:48",
+    "price_closed": "43700.00",
+    "difference": "2300.00",
+    "change": "5.00"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 211,
+  "fields": {
+    "player": 11,
+    "signal": 3,
+    "asset": 13,
+    "position": "L",
+    "date_opened": "2019-07-25T09:31:26",
+    "price_opened": "20350.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 212,
+  "fields": {
+    "player": 11,
+    "signal": 3,
+    "asset": 13,
+    "position": "L",
+    "date_opened": "2019-07-25T09:31:26",
+    "price_opened": "20350.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 213,
+  "fields": {
+    "player": 2,
+    "signal": 3,
+    "asset": 21,
+    "position": "L",
+    "date_opened": "2019-07-25T09:37:11",
+    "price_opened": "16000.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 214,
+  "fields": {
+    "player": 2,
+    "signal": 3,
+    "asset": 21,
+    "position": "L",
+    "date_opened": "2019-07-25T09:37:11",
+    "price_opened": "16000.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 215,
+  "fields": {
+    "player": 3,
+    "signal": 3,
+    "asset": 21,
+    "position": "L",
+    "date_opened": "2019-07-25T10:04:11",
+    "price_opened": "16000.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 216,
+  "fields": {
+    "player": 2,
+    "signal": 3,
+    "asset": 21,
+    "position": "S",
+    "date_opened": "2019-07-25T10:05:27",
+    "price_opened": "16000.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 217,
+  "fields": {
+    "player": 3,
+    "signal": 3,
+    "asset": 21,
+    "position": "S",
+    "date_opened": "2019-07-25T10:07:06",
+    "price_opened": "16000.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 218,
+  "fields": {
+    "player": 3,
+    "signal": 3,
+    "asset": 13,
+    "position": "L",
+    "date_opened": "2019-07-25T10:34:28",
+    "price_opened": "20100.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 219,
+  "fields": {
+    "player": 3,
+    "signal": 3,
+    "asset": 13,
+    "position": "L",
+    "date_opened": "2019-07-25T10:34:28",
+    "price_opened": "20100.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 220,
+  "fields": {
+    "player": 3,
+    "signal": 3,
+    "asset": 13,
+    "position": "S",
+    "date_opened": "2019-07-25T10:45:50",
+    "price_opened": "20150.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 221,
+  "fields": {
+    "player": 2,
+    "signal": 3,
+    "asset": 13,
+    "position": "L",
+    "date_opened": "2019-07-25T11:02:50",
+    "price_opened": "20100.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 222,
+  "fields": {
+    "player": 2,
+    "signal": 3,
+    "asset": 13,
+    "position": "L",
+    "date_opened": "2019-07-25T11:02:50",
+    "price_opened": "20100.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 223,
+  "fields": {
+    "player": 2,
+    "signal": 3,
+    "asset": 13,
+    "position": "S",
+    "date_opened": "2019-07-25T11:05:18",
+    "price_opened": "20100.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 224,
+  "fields": {
+    "player": 6,
+    "signal": 3,
+    "asset": 13,
+    "position": "L",
+    "date_opened": "2019-07-25T11:23:20",
+    "price_opened": "20150.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 225,
+  "fields": {
+    "player": 6,
+    "signal": 3,
+    "asset": 13,
+    "position": "L",
+    "date_opened": "2019-07-25T11:23:20",
+    "price_opened": "20150.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 226,
+  "fields": {
+    "player": 6,
+    "signal": 3,
+    "asset": 13,
+    "position": "S",
+    "date_opened": "2019-07-25T11:23:39",
+    "price_opened": "20150.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 227,
+  "fields": {
+    "player": 8,
+    "signal": 3,
+    "asset": 13,
+    "position": "L",
+    "date_opened": "2019-07-25T11:36:48",
+    "price_opened": "20100.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 228,
+  "fields": {
+    "player": 8,
+    "signal": 3,
+    "asset": 13,
+    "position": "L",
+    "date_opened": "2019-07-25T11:36:48",
+    "price_opened": "20100.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 229,
+  "fields": {
+    "player": 8,
+    "signal": 3,
+    "asset": 13,
+    "position": "S",
+    "date_opened": "2019-07-25T11:36:54",
+    "price_opened": "20100.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 230,
+  "fields": {
+    "player": 2,
+    "signal": 3,
+    "asset": 15,
+    "position": "S",
+    "date_opened": "2019-07-26T09:12:18",
+    "price_opened": "27650.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 231,
+  "fields": {
+    "player": 2,
+    "signal": 3,
+    "asset": 15,
+    "position": "L",
+    "date_opened": "2019-07-26T09:23:12",
+    "price_opened": "27650.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 232,
+  "fields": {
+    "player": 2,
+    "signal": 3,
+    "asset": 15,
+    "position": "L",
+    "date_opened": "2019-07-26T09:23:12",
+    "price_opened": "27650.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 233,
+  "fields": {
+    "player": 6,
+    "signal": 3,
+    "asset": 15,
+    "position": "L",
+    "date_opened": "2019-07-26T09:50:47",
+    "price_opened": "27900.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 234,
+  "fields": {
+    "player": 6,
+    "signal": 3,
+    "asset": 15,
+    "position": "L",
+    "date_opened": "2019-07-26T09:50:47",
+    "price_opened": "27900.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 235,
+  "fields": {
+    "player": 6,
+    "signal": 3,
+    "asset": 15,
+    "position": "S",
+    "date_opened": "2019-07-26T09:50:53",
+    "price_opened": "27900.00",
+    "date_closed": "2019-08-16T10:04:07",
+    "price_closed": "24750.00",
+    "difference": "3150.00",
+    "change": "11.29"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 236,
+  "fields": {
+    "player": 3,
+    "signal": 3,
+    "asset": 21,
+    "position": "L",
+    "date_opened": "2019-07-26T10:04:11",
+    "price_opened": "16000.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 237,
+  "fields": {
+    "player": 8,
+    "signal": 3,
+    "asset": 26,
+    "position": "S",
+    "date_opened": "2019-07-29T10:16:47",
+    "price_opened": "43850.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 238,
+  "fields": {
+    "player": 8,
+    "signal": 3,
+    "asset": 26,
+    "position": "L",
+    "date_opened": "2019-07-29T10:18:24",
+    "price_opened": "43850.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 239,
+  "fields": {
+    "player": 8,
+    "signal": 3,
+    "asset": 26,
+    "position": "L",
+    "date_opened": "2019-07-29T10:18:24",
+    "price_opened": "43850.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 240,
+  "fields": {
+    "player": 9,
+    "signal": 3,
+    "asset": 20,
+    "position": "S",
+    "date_opened": "2019-07-31T13:45:29",
+    "price_opened": "13050.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 241,
+  "fields": {
+    "player": 9,
+    "signal": 3,
+    "asset": 20,
+    "position": "L",
+    "date_opened": "2019-07-31T13:55:46",
+    "price_opened": "13050.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 242,
+  "fields": {
+    "player": 9,
+    "signal": 3,
+    "asset": 20,
+    "position": "L",
+    "date_opened": "2019-07-31T13:55:46",
+    "price_opened": "13050.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 243,
+  "fields": {
+    "player": 9,
+    "signal": 3,
+    "asset": 67,
+    "position": "S",
+    "date_opened": "2019-07-31T14:31:10",
+    "price_opened": "7080.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 244,
+  "fields": {
+    "player": 9,
+    "signal": 3,
+    "asset": 67,
+    "position": "L",
+    "date_opened": "2019-07-31T14:32:18",
+    "price_opened": "7080.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 245,
+  "fields": {
+    "player": 2,
+    "signal": 3,
+    "asset": 5,
+    "position": "L",
+    "date_opened": "2019-08-01T09:08:49",
+    "price_opened": "38300.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 246,
+  "fields": {
+    "player": 2,
+    "signal": 3,
+    "asset": 5,
+    "position": "L",
+    "date_opened": "2019-08-01T09:08:49",
+    "price_opened": "38300.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 247,
+  "fields": {
+    "player": 2,
+    "signal": 3,
+    "asset": 5,
+    "position": "S",
+    "date_opened": "2019-08-01T09:12:15",
+    "price_opened": "38300.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 248,
+  "fields": {
+    "player": 3,
+    "signal": 3,
+    "asset": 24,
+    "position": "S",
+    "date_opened": "2019-08-01T10:14:39",
+    "price_opened": "37350.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 249,
+  "fields": {
+    "player": 3,
+    "signal": 3,
+    "asset": 24,
+    "position": "L",
+    "date_opened": "2019-08-01T11:49:00",
+    "price_opened": "37300.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 250,
+  "fields": {
+    "player": 3,
+    "signal": 3,
+    "asset": 24,
+    "position": "L",
+    "date_opened": "2019-08-01T11:49:00",
+    "price_opened": "37300.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 251,
+  "fields": {
+    "player": 11,
+    "signal": 3,
+    "asset": 9,
+    "position": "L",
+    "date_opened": "2019-08-02T10:25:19",
+    "price_opened": "7300.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 252,
+  "fields": {
+    "player": 11,
+    "signal": 3,
+    "asset": 9,
+    "position": "L",
+    "date_opened": "2019-08-02T10:25:19",
+    "price_opened": "7300.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 253,
+  "fields": {
+    "player": 11,
+    "signal": 3,
+    "asset": 9,
+    "position": "S",
+    "date_opened": "2019-08-02T10:25:21",
+    "price_opened": "7280.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 254,
+  "fields": {
+    "player": 2,
+    "signal": 3,
+    "asset": 1,
+    "position": "S",
+    "date_opened": "2019-08-05T10:10:13",
+    "price_opened": "8205.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 255,
+  "fields": {
+    "player": 2,
+    "signal": 3,
+    "asset": 1,
+    "position": "L",
+    "date_opened": "2019-08-05T10:11:23",
+    "price_opened": "11095.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 256,
+  "fields": {
+    "player": 2,
+    "signal": 3,
+    "asset": 1,
+    "position": "L",
+    "date_opened": "2019-08-05T10:11:23",
+    "price_opened": "11095.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 257,
+  "fields": {
+    "player": 8,
+    "signal": 3,
+    "asset": 9,
+    "position": "S",
+    "date_opened": "2019-08-05T10:14:24",
+    "price_opened": "7200.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 258,
+  "fields": {
+    "player": 8,
+    "signal": 3,
+    "asset": 9,
+    "position": "L",
+    "date_opened": "2019-08-05T10:17:11",
+    "price_opened": "7190.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 259,
+  "fields": {
+    "player": 8,
+    "signal": 3,
+    "asset": 9,
+    "position": "L",
+    "date_opened": "2019-08-05T10:17:11",
+    "price_opened": "7190.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 260,
+  "fields": {
+    "player": 2,
+    "signal": 3,
+    "asset": 9,
+    "position": "L",
+    "date_opened": "2019-08-05T10:21:23",
+    "price_opened": "7180.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 261,
+  "fields": {
+    "player": 2,
+    "signal": 3,
+    "asset": 9,
+    "position": "L",
+    "date_opened": "2019-08-05T10:21:23",
+    "price_opened": "7180.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 262,
+  "fields": {
+    "player": 2,
+    "signal": 3,
+    "asset": 9,
+    "position": "S",
+    "date_opened": "2019-08-05T10:21:25",
+    "price_opened": "7170.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 263,
+  "fields": {
+    "player": 11,
+    "signal": 3,
+    "asset": 1,
+    "position": "L",
+    "date_opened": "2019-08-05T10:21:34",
+    "price_opened": "11020.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 264,
+  "fields": {
+    "player": 11,
+    "signal": 3,
+    "asset": 1,
+    "position": "L",
+    "date_opened": "2019-08-05T10:21:34",
+    "price_opened": "11020.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 265,
+  "fields": {
+    "player": 8,
+    "signal": 3,
+    "asset": 1,
+    "position": "L",
+    "date_opened": "2019-08-05T10:30:15",
+    "price_opened": "11000.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 266,
+  "fields": {
+    "player": 8,
+    "signal": 3,
+    "asset": 1,
+    "position": "L",
+    "date_opened": "2019-08-05T10:30:15",
+    "price_opened": "11000.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 267,
+  "fields": {
+    "player": 8,
+    "signal": 3,
+    "asset": 1,
+    "position": "S",
+    "date_opened": "2019-08-05T10:30:23",
+    "price_opened": "8280.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 268,
+  "fields": {
+    "player": 11,
+    "signal": 3,
+    "asset": 1,
+    "position": "S",
+    "date_opened": "2019-08-06T13:17:50",
+    "price_opened": "8440.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 269,
+  "fields": {
+    "player": 6,
+    "signal": 3,
+    "asset": 15,
+    "position": "L",
+    "date_opened": "2019-08-16T10:06:34",
+    "price_opened": "24700.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 270,
+  "fields": {
+    "player": 6,
+    "signal": 3,
+    "asset": 15,
+    "position": "L",
+    "date_opened": "2019-08-16T10:06:34",
+    "price_opened": "24700.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 271,
+  "fields": {
+    "player": 6,
+    "signal": 3,
+    "asset": 15,
+    "position": "S",
+    "date_opened": "2019-08-16T10:11:15",
+    "price_opened": "24700.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 272,
+  "fields": {
+    "player": 9,
+    "signal": 3,
+    "asset": 67,
+    "position": "S",
+    "date_opened": "2019-08-30T13:46:19",
+    "price_opened": "7730.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 273,
+  "fields": {
+    "player": 9,
+    "signal": 3,
+    "asset": 67,
+    "position": "L",
+    "date_opened": "2019-08-30T13:47:59",
+    "price_opened": "7720.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 274,
+  "fields": {
+    "player": 9,
+    "signal": 3,
+    "asset": 67,
+    "position": "L",
+    "date_opened": "2019-08-30T13:47:59",
+    "price_opened": "7720.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 275,
+  "fields": {
+    "player": 13,
+    "signal": 3,
+    "asset": 61,
+    "position": "L",
+    "date_opened": "2019-09-03T09:44:06",
+    "price_opened": "40200.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 276,
+  "fields": {
+    "player": 13,
+    "signal": 3,
+    "asset": 61,
+    "position": "L",
+    "date_opened": "2019-09-03T09:44:06",
+    "price_opened": "40200.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 277,
+  "fields": {
+    "player": 13,
+    "signal": 3,
+    "asset": 61,
+    "position": "S",
+    "date_opened": "2019-09-03T09:44:27",
+    "price_opened": "40200.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 278,
+  "fields": {
+    "player": 11,
+    "signal": 3,
+    "asset": 13,
+    "position": "L",
+    "date_opened": "2019-09-06T09:20:08",
+    "price_opened": "17800.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 279,
+  "fields": {
+    "player": 11,
+    "signal": 3,
+    "asset": 13,
+    "position": "L",
+    "date_opened": "2019-09-06T09:20:08",
+    "price_opened": "17800.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 280,
+  "fields": {
+    "player": 11,
+    "signal": 3,
+    "asset": 13,
+    "position": "S",
+    "date_opened": "2019-09-06T09:20:38",
+    "price_opened": "17850.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 281,
+  "fields": {
+    "player": 3,
+    "signal": 3,
+    "asset": 15,
+    "position": "L",
+    "date_opened": "2019-09-06T14:38:38",
+    "price_opened": "24950.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 282,
+  "fields": {
+    "player": 3,
+    "signal": 3,
+    "asset": 15,
+    "position": "L",
+    "date_opened": "2019-09-06T14:38:38",
+    "price_opened": "24950.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 283,
+  "fields": {
+    "player": 3,
+    "signal": 3,
+    "asset": 15,
+    "position": "S",
+    "date_opened": "2019-09-06T14:38:40",
+    "price_opened": "24950.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 284,
+  "fields": {
+    "player": 13,
+    "signal": 3,
+    "asset": 21,
+    "position": "L",
+    "date_opened": "2019-09-10T10:32:20",
+    "price_opened": "14350.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 285,
+  "fields": {
+    "player": 13,
+    "signal": 3,
+    "asset": 21,
+    "position": "L",
+    "date_opened": "2019-09-10T10:32:20",
+    "price_opened": "14350.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 286,
+  "fields": {
+    "player": 13,
+    "signal": 3,
+    "asset": 21,
+    "position": "S",
+    "date_opened": "2019-09-10T10:33:30",
+    "price_opened": "14350.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 287,
+  "fields": {
+    "player": 13,
+    "signal": 3,
+    "asset": 29,
+    "position": "S",
+    "date_opened": "2019-09-10T15:17:49",
+    "price_opened": "18100.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 288,
+  "fields": {
+    "player": 13,
+    "signal": 3,
+    "asset": 29,
+    "position": "L",
+    "date_opened": "2019-09-10T15:19:31",
+    "price_opened": "18100.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 289,
+  "fields": {
+    "player": 13,
+    "signal": 3,
+    "asset": 29,
+    "position": "L",
+    "date_opened": "2019-09-10T15:19:31",
+    "price_opened": "18100.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 290,
+  "fields": {
+    "player": 9,
+    "signal": 3,
+    "asset": 9,
+    "position": "S",
+    "date_opened": "2019-09-17T11:42:22",
+    "price_opened": "7780.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 291,
+  "fields": {
+    "player": 9,
+    "signal": 3,
+    "asset": 9,
+    "position": "L",
+    "date_opened": "2019-09-17T11:46:09",
+    "price_opened": "7770.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 292,
+  "fields": {
+    "player": 9,
+    "signal": 3,
+    "asset": 9,
+    "position": "L",
+    "date_opened": "2019-09-17T11:46:09",
+    "price_opened": "7770.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 293,
+  "fields": {
+    "player": 11,
+    "signal": 3,
+    "asset": 101,
+    "position": "L",
+    "date_opened": "2019-09-20T12:41:41",
+    "price_opened": "19600.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 294,
+  "fields": {
+    "player": 11,
+    "signal": 3,
+    "asset": 101,
+    "position": "L",
+    "date_opened": "2019-09-20T12:41:41",
+    "price_opened": "19600.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 295,
+  "fields": {
+    "player": 11,
+    "signal": 3,
+    "asset": 101,
+    "position": "S",
+    "date_opened": "2019-09-20T12:49:21",
+    "price_opened": "19600.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 296,
+  "fields": {
+    "player": 3,
+    "signal": 2,
+    "asset": 3,
+    "position": "L",
+    "date_opened": "2019-02-11T12:58:23",
+    "price_opened": "37000.00",
+    "date_closed": "2019-09-03T09:05:32",
+    "price_closed": "44100.00",
+    "difference": "7100.00",
+    "change": "19.19"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 297,
+  "fields": {
+    "player": 3,
+    "signal": 2,
+    "asset": 3,
+    "position": "L",
+    "date_opened": "2019-02-11T12:58:34",
+    "price_opened": "37000.00",
+    "date_closed": "2019-09-03T09:05:42",
+    "price_closed": "44100.00",
+    "difference": "7100.00",
+    "change": "19.19"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 298,
+  "fields": {
+    "player": 4,
+    "signal": 2,
+    "asset": 15,
+    "position": "L",
+    "date_opened": "2019-03-27T13:44:47",
+    "price_opened": "31200.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 299,
+  "fields": {
+    "player": 4,
+    "signal": 3,
+    "asset": 15,
+    "position": "L",
+    "date_opened": "2019-03-27T13:44:47",
+    "price_opened": "31200.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 300,
+  "fields": {
+    "player": 4,
+    "signal": 3,
+    "asset": 15,
+    "position": "L",
+    "date_opened": "2019-03-27T13:44:47",
+    "price_opened": "31200.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 301,
+  "fields": {
+    "player": 4,
+    "signal": 3,
+    "asset": 15,
+    "position": "L",
+    "date_opened": "2019-03-27T13:44:47",
+    "price_opened": "31200.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 302,
+  "fields": {
+    "player": 4,
+    "signal": 3,
+    "asset": 15,
+    "position": "L",
+    "date_opened": "2019-03-27T13:44:47",
+    "price_opened": "31200.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 303,
+  "fields": {
+    "player": 4,
+    "signal": 3,
+    "asset": 15,
+    "position": "L",
+    "date_opened": "2019-03-27T13:44:47",
+    "price_opened": "31200.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 304,
+  "fields": {
+    "player": 4,
+    "signal": 3,
+    "asset": 21,
+    "position": "L",
+    "date_opened": "2019-03-28T14:17:14",
+    "price_opened": "19450.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 305,
+  "fields": {
+    "player": 4,
+    "signal": 3,
+    "asset": 21,
+    "position": "L",
+    "date_opened": "2019-03-28T14:17:14",
+    "price_opened": "19450.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 306,
+  "fields": {
+    "player": 4,
+    "signal": 3,
+    "asset": 21,
+    "position": "L",
+    "date_opened": "2019-03-28T14:17:14",
+    "price_opened": "19450.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 307,
+  "fields": {
+    "player": 4,
+    "signal": 3,
+    "asset": 21,
+    "position": "L",
+    "date_opened": "2019-03-28T14:17:14",
+    "price_opened": "19450.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 308,
+  "fields": {
+    "player": 4,
+    "signal": 3,
+    "asset": 21,
+    "position": "L",
+    "date_opened": "2019-03-28T14:17:14",
+    "price_opened": "19450.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 309,
+  "fields": {
+    "player": 4,
+    "signal": 3,
+    "asset": 21,
+    "position": "L",
+    "date_opened": "2019-03-28T14:17:14",
+    "price_opened": "19450.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 310,
+  "fields": {
+    "player": 2,
+    "signal": 3,
+    "asset": 89,
+    "position": "L",
+    "date_opened": "2019-05-24T12:15:14",
+    "price_opened": "6000.00",
+    "date_closed": "2019-09-16T14:27:13",
+    "price_closed": "6700.00",
+    "difference": "700.00",
+    "change": "11.67"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 311,
+  "fields": {
+    "player": 4,
+    "signal": 3,
+    "asset": 9,
+    "position": "L",
+    "date_opened": "2019-06-25T14:37:23",
+    "price_opened": "8180.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 312,
+  "fields": {
+    "player": 4,
+    "signal": 3,
+    "asset": 9,
+    "position": "L",
+    "date_opened": "2019-06-25T14:37:23",
+    "price_opened": "8180.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 313,
+  "fields": {
+    "player": 7,
+    "signal": 3,
+    "asset": 23,
+    "position": "L",
+    "date_opened": "2019-07-09T14:37:44",
+    "price_opened": "5820.00",
+    "date_closed": "2019-09-16T09:14:53",
+    "price_closed": "6490.00",
+    "difference": "670.00",
+    "change": "11.51"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 314,
+  "fields": {
+    "player": 11,
+    "signal": 3,
+    "asset": 13,
+    "position": "S",
+    "date_opened": "2019-07-25T09:26:42",
+    "price_opened": "20450.00",
+    "date_closed": "2019-09-06T09:14:05",
+    "price_closed": "17800.00",
+    "difference": "2650.00",
+    "change": "12.96"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 315,
+  "fields": {
+    "player": 4,
+    "signal": 3,
+    "asset": 21,
+    "position": "L",
+    "date_opened": "2019-07-25T10:04:52",
+    "price_opened": "16000.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 316,
+  "fields": {
+    "player": 4,
+    "signal": 3,
+    "asset": 21,
+    "position": "L",
+    "date_opened": "2019-07-25T10:04:52",
+    "price_opened": "16000.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 317,
+  "fields": {
+    "player": 4,
+    "signal": 3,
+    "asset": 21,
+    "position": "S",
+    "date_opened": "2019-07-25T10:07:09",
+    "price_opened": "16000.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 318,
+  "fields": {
+    "player": 4,
+    "signal": 3,
+    "asset": 15,
+    "position": "L",
+    "date_opened": "2019-07-26T09:50:09",
+    "price_opened": "27900.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 319,
+  "fields": {
+    "player": 4,
+    "signal": 3,
+    "asset": 15,
+    "position": "L",
+    "date_opened": "2019-07-26T09:50:09",
+    "price_opened": "27900.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 320,
+  "fields": {
+    "player": 4,
+    "signal": 3,
+    "asset": 15,
+    "position": "S",
+    "date_opened": "2019-07-26T09:53:38",
+    "price_opened": "27950.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 321,
+  "fields": {
+    "player": 5,
+    "signal": 3,
+    "asset": 29,
+    "position": "L",
+    "date_opened": "2019-07-26T10:09:07",
+    "price_opened": "16050.00",
+    "date_closed": "2019-08-22T10:11:12",
+    "price_closed": "17600.00",
+    "difference": "1550.00",
+    "change": "9.66"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 322,
+  "fields": {
+    "player": 5,
+    "signal": 3,
+    "asset": 29,
+    "position": "L",
+    "date_opened": "2019-07-26T10:09:20",
+    "price_opened": "16050.00",
+    "date_closed": "2019-08-22T10:11:07",
+    "price_closed": "17600.00",
+    "difference": "1550.00",
+    "change": "9.66"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 323,
+  "fields": {
+    "player": 9,
+    "signal": 3,
+    "asset": 67,
+    "position": "L",
+    "date_opened": "2019-07-31T12:32:13",
+    "price_opened": "7080.00",
+    "date_closed": "2019-08-30T13:33:22",
+    "price_closed": "7700.00",
+    "difference": "620.00",
+    "change": "8.76"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 324,
+  "fields": {
+    "player": 9,
+    "signal": 3,
+    "asset": 40,
+    "position": "L",
+    "date_opened": "2019-07-31T14:05:43",
+    "price_opened": "24150.00",
+    "date_closed": "2019-09-17T11:20:55",
+    "price_closed": "26050.00",
+    "difference": "1900.00",
+    "change": "7.87"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 325,
+  "fields": {
+    "player": 9,
+    "signal": 3,
+    "asset": 40,
+    "position": "L",
+    "date_opened": "2019-07-31T14:05:43",
+    "price_opened": "24150.00",
+    "date_closed": "2019-09-17T11:20:56",
+    "price_closed": "26050.00",
+    "difference": "1900.00",
+    "change": "7.87"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 326,
+  "fields": {
+    "player": 9,
+    "signal": 3,
+    "asset": 40,
+    "position": "S",
+    "date_opened": "2019-07-31T14:05:45",
+    "price_opened": "24150.00",
+    "date_closed": "2019-09-17T11:20:54",
+    "price_closed": "24150.00",
+    "difference": "-1850.00",
+    "change": "-7.66"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 327,
+  "fields": {
+    "player": 7,
+    "signal": 3,
+    "asset": 5,
+    "position": "L",
+    "date_opened": "2019-08-01T09:13:51",
+    "price_opened": "38250.00",
+    "date_closed": "2019-09-16T10:01:28",
+    "price_closed": "40700.00",
+    "difference": "2450.00",
+    "change": "6.41"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 328,
+  "fields": {
+    "player": 3,
+    "signal": 3,
+    "asset": 1,
+    "position": "L",
+    "date_opened": "2019-08-05T09:43:11",
+    "price_opened": "11155.00",
+    "date_closed": "2019-09-19T09:38:34",
+    "price_closed": "12405.00",
+    "difference": "1250.00",
+    "change": "11.21"
+  }
+},
+{
+  "model": "trades.trade",
+  "pk": 329,
+  "fields": {
+    "player": 4,
+    "signal": 3,
+    "asset": 9,
+    "position": "S",
+    "date_opened": "2019-08-05T10:26:17",
+    "price_opened": "7140.00",
+    "date_closed": null,
+    "price_closed": null,
+    "difference": null,
+    "change": null
+  }
+}
+]

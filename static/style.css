@@ -1,0 +1,259 @@
+@charset "utf-8";
+
+/* Tag */
+html {
+  font-size: 90%;
+}
+body {
+  min-width: 320px;
+  max-width: 768px;
+  margin: 0 auto;
+  padding: 0;
+  background-color: #eff2f8;
+  background-size: 768px;
+  word-break: keep-all;
+  word-wrap: break-word;
+}
+nav {
+  border-bottom: 1px solid #dee2e6;
+}
+nav, header, section {
+  margin-bottom: .5rem;
+  background-color: white;
+}
+main, footer {
+  margin-bottom: 1rem;
+}
+a {
+  text-decoration: none !important;
+}
+
+/* Font */
+.text-kr {
+  font-family: 'Malgun Gothic', Dotum, -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+}
+
+/* Bootstrap Class */
+.jumbotron {
+  background-color: white;
+  border-radius: 0 !important;
+  margin-bottom: 0 !important;
+}
+
+/* Box */
+.box {
+  width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+}
+.box-pad {
+  width: 100%;
+  padding: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.box-pad-x {
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.box-img {
+  width: 100%;
+  height: auto;
+}
+
+/* Button */
+.btn-xm {
+  padding: .15rem .4rem;
+  font-size: 0.8rem;
+  line-height: 1.5;
+  border-radius: .2rem;
+}
+.btn-blue {
+  color: #fff;
+  background-color: #007bff;
+  border-color: #007bff;
+}
+.btn-indigo {
+  color: #fff;
+  background-color: #6610f2;
+  border-color: #6610f2;
+}
+.btn-purple {
+  color: #fff;
+  background-color: #6f42c1;
+  border-color: #6f42c1;
+}
+.btn-pink {
+  color: #fff;
+  background-color: #e83e8c;
+  border-color: #e83e8c;
+}
+.btn-red {
+  color: #fff;
+  background-color: #dc3545;
+  border-color: #dc3545;
+}
+.btn-orange {
+  color: #fff;
+  background-color: #fd7e14;
+  border-color: #fd7e14;
+}
+.btn-yellow {
+  color: #212529;
+  background-color: #ffc107;
+  border-color: #ffc107;
+}
+.btn-green {
+  color: #fff;
+  background-color: #28a745;
+  border-color: #28a745;
+}
+.btn-teal {
+  color: #fff;
+  background-color: #20c997;
+  border-color: #20c997;
+}
+.btn-cyan {
+  color: #fff;
+  background-color: #17a2b8;
+  border-color: #17a2b8;
+}
+.btn-gray {
+  color: #212529;
+  background-color: #9e9e9e;
+  border-color: #9e9e9e;
+}
+.btn-darkgray {
+  color: #fff;
+  background-color: #6c757d;
+  border-color: #6c757d;
+}
+
+/* Badge Color */
+.badge-blue {
+  color: #fff;
+  background-color: #007bff;
+}
+.badge-indigo {
+  color: #fff;
+  background-color: #6610f2;
+}
+.badge-purple {
+  color: #fff;
+  background-color: #6f42c1;
+}
+.badge-pink {
+  color: #fff;
+  background-color: #e83e8c;
+}
+.badge-red {
+  color: #fff;
+  background-color: #dc3545;
+}
+.badge-orange {
+  color: #212529;
+  background-color: #fd7e14;
+}
+.badge-yellow {
+  color: #212529;
+  background-color: #ffc107;
+}
+.badge-green {
+  color: #fff;
+  background-color: #28a745;
+}
+.badge-teal {
+  color: #fff;
+  background-color: #20c997;
+}
+.badge-cyan {
+  color: #fff;
+  background-color: #17a2b8;
+}
+.badge-gray {
+  color: #fff;
+  background-color: #9e9e9e;
+}
+.badge-darkgray {
+  color: #fff;
+  background-color: #6c757d;
+}
+
+/* Background color */
+.bg-blue {
+  background-color: #007bff;
+}
+.bg-indigo {
+  background-color: #6610f2;
+}
+.bg-purple {
+  background-color: #6f42c1;
+}
+.bg-pink {
+  background-color: #e83e8c;
+}
+.bg-red {
+  background-color: #dc3545;
+}
+.bg-orange {
+  background-color: #fd7e14;
+}
+.bg-yellow {
+  background-color: #ffc107;
+}
+.bg-green {
+  background-color: #28a745;
+}
+.bg-teal {
+  background-color: #20c997;
+}
+.bg-cyan {
+  background-color: #17a2b8;
+}
+.bg-gray {
+  background-color: #9e9e9e;
+}
+.bg-darkgray {
+  background-color: #6c757d;
+}
+
+/* Text color */
+.text-blue {
+  color: #007bff;
+}
+.text-indigo {
+  color: #6610f2;
+}
+.text-purple {
+  color: #6f42c1;
+}
+.text-pink {
+  color: #e83e8c;
+}
+.text-red {
+  color: #dc3545;
+}
+.text-orange {
+  color: #fd7e14;
+}
+.text-yellow {
+  color: #ffc107;
+}
+.text-green {
+  color: #28a745;
+}
+.text-teal {
+  color: #20c997;
+}
+.text-cyan {
+  color: #17a2b8;
+}
+.text-gray {
+  color: #9e9e9e;
+}
+.text-darkgray {
+  color: #6c757d;
+}

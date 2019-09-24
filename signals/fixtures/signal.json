@@ -1,0 +1,52 @@
+[
+{
+  "model": "signals.signal",
+  "pk": 1,
+  "fields": {
+    "name": "Balance",
+    "creator": "\uc774\uc131\uc7ac",
+    "is_active": true,
+    "date_created": "2018-01-01"
+  }
+},
+{
+  "model": "signals.signal",
+  "pk": 2,
+  "fields": {
+    "name": "Cycle 7",
+    "creator": "\uc774\uc131\uc7ac",
+    "is_active": true,
+    "date_created": "2018-01-01"
+  }
+},
+{
+  "model": "signals.signal",
+  "pk": 3,
+  "fields": {
+    "name": "Cycle 5",
+    "creator": "\uc774\uc131\uc7ac",
+    "is_active": true,
+    "date_created": "2018-01-01"
+  }
+},
+{
+  "model": "signals.signal",
+  "pk": 4,
+  "fields": {
+    "name": "Dahee 3",
+    "creator": "\ubbfc\uc138\uad11, \uc774\ud61c\uc601",
+    "is_active": true,
+    "date_created": "2019-08-01"
+  }
+},
+{
+  "model": "signals.signal",
+  "pk": 5,
+  "fields": {
+    "name": "Line 3",
+    "creator": "\uc870\uc601\ub85d, \ubb38\uc0ac\ub791",
+    "is_active": true,
+    "date_created": "2019-08-15"
+  }
+}
+]

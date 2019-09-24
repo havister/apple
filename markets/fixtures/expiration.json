@@ -1,0 +1,170 @@
+[
+{
+  "model": "markets.expiration",
+  "pk": "1801",
+  "fields": {
+    "date_expired": "2018-01-11"
+  }
+},
+{
+  "model": "markets.expiration",
+  "pk": "1802",
+  "fields": {
+    "date_expired": "2018-02-08"
+  }
+},
+{
+  "model": "markets.expiration",
+  "pk": "1803",
+  "fields": {
+    "date_expired": "2018-03-08"
+  }
+},
+{
+  "model": "markets.expiration",
+  "pk": "1804",
+  "fields": {
+    "date_expired": "2018-04-12"
+  }
+},
+{
+  "model": "markets.expiration",
+  "pk": "1805",
+  "fields": {
+    "date_expired": "2018-05-10"
+  }
+},
+{
+  "model": "markets.expiration",
+  "pk": "1806",
+  "fields": {
+    "date_expired": "2018-06-14"
+  }
+},
+{
+  "model": "markets.expiration",
+  "pk": "1807",
+  "fields": {
+    "date_expired": "2018-07-12"
+  }
+},
+{
+  "model": "markets.expiration",
+  "pk": "1808",
+  "fields": {
+    "date_expired": "2018-08-09"
+  }
+},
+{
+  "model": "markets.expiration",
+  "pk": "1809",
+  "fields": {
+    "date_expired": "2018-09-13"
+  }
+},
+{
+  "model": "markets.expiration",
+  "pk": "1810",
+  "fields": {
+    "date_expired": "2018-10-11"
+  }
+},
+{
+  "model": "markets.expiration",
+  "pk": "1811",
+  "fields": {
+    "date_expired": "2018-11-08"
+  }
+},
+{
+  "model": "markets.expiration",
+  "pk": "1812",
+  "fields": {
+    "date_expired": "2018-12-13"
+  }
+},
+{
+  "model": "markets.expiration",
+  "pk": "1901",
+  "fields": {
+    "date_expired": "2019-01-10"
+  }
+},
+{
+  "model": "markets.expiration",
+  "pk": "1902",
+  "fields": {
+    "date_expired": "2019-02-14"
+  }
+},
+{
+  "model": "markets.expiration",
+  "pk": "1903",
+  "fields": {
+    "date_expired": "2019-03-14"
+  }
+},
+{
+  "model": "markets.expiration",
+  "pk": "1904",
+  "fields": {
+    "date_expired": "2019-04-11"
+  }
+},
+{
+  "model": "markets.expiration",
+  "pk": "1905",
+  "fields": {
+    "date_expired": "2019-05-09"
+  }
+},
+{
+  "model": "markets.expiration",
+  "pk": "1906",
+  "fields": {
+    "date_expired": "2019-06-13"
+  }
+},
+{
+  "model": "markets.expiration",
+  "pk": "1907",
+  "fields": {
+    "date_expired": "2019-07-11"
+  }
+},
+{
+  "model": "markets.expiration",
+  "pk": "1908",
+  "fields": {
+    "date_expired": "2019-08-08"
+  }
+},
+{
+  "model": "markets.expiration",
+  "pk": "1909",
+  "fields": {
+    "date_expired": "2019-09-11"
+  }
+},
+{
+  "model": "markets.expiration",
+  "pk": "1910",
+  "fields": {
+    "date_expired": "2019-10-10"
+  }
+},
+{
+  "model": "markets.expiration",
+  "pk": "1911",
+  "fields": {
+    "date_expired": "2019-11-14"
+  }
+},
+{
+  "model": "markets.expiration",
+  "pk": "1912",
+  "fields": {
+    "date_expired": "2019-12-12"
+  }
+}
+]
