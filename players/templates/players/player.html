@@ -6,11 +6,11 @@
 
 {% block nav-title %}
 <a class="mr-2" href="/players/"><i class="fas fa-chevron-left"></i></a>
-<span class="text-uppercase">{{ player.username }}</span>
+<span>{{ player.username|upper }}</span>
 {% endblock %}
 
 {% block nav-link %}
-<a class="btn btn-outline-secondary btn-xm" href="" role="button">HAVISTER</a>
+<a class="btn btn-outline-primary btn-xm" href="{% url 'logout' %}" role="button">Logout</a>
 {% endblock %}
 
 {% block header %}

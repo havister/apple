@@ -10,7 +10,7 @@
 {% endblock %}
 
 {% block nav-link %}
-<a class="btn btn-outline-secondary btn-xm" href="" role="button">PLAYER</a>
+<a class="btn btn-outline-primary btn-xm" href="{% url 'players:player' user.username %}" role="button">{{ user.username|upper }}</a>
 {% endblock %}
 
 {% block header %}

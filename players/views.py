@@ -1,11 +1,12 @@
 from django.shortcuts import get_object_or_404, render
 from django.urls import reverse
+from django.contrib.auth.mixins import LoginRequiredMixin
 from django.views.generic import ListView, DetailView
 from django.contrib.auth.models import User
 from trades.models import Trade
 
 
-class IndexView(ListView):
+class IndexView(LoginRequiredMixin, ListView):
     # Closed trade list by player
     queryset = Trade.objects.filter(
         date_closed__isnull=False).order_by('player', '-date_closed').distinct('player')
@@ -20,7 +21,7 @@ class IndexView(ListView):
         return context
 
 
-class PlayerView(DetailView):
+class PlayerView(LoginRequiredMixin, DetailView):
     context_object_name = 'player'
     template_name = 'players/player.html'
 
@@ -43,7 +44,7 @@ class PlayerView(DetailView):
         return context
 
 
-class ReturnsView(ListView):
+class ReturnsView(LoginRequiredMixin, ListView):
     context_object_name = 'trade_list'
     template_name = 'players/returns.html'
 

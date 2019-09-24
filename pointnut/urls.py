@@ -20,6 +20,8 @@ from pointnut.views import HomeView
 urlpatterns = [
     # www.pointnut.com/
     path('', HomeView.as_view(), name='home'),
+    # /accounts/
+    path('accounts/', include('django.contrib.auth.urls')),
     # /admin/
     path('admin/', admin.site.urls),
     # /events/

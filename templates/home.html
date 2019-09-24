@@ -6,7 +6,11 @@
 {% endblock %}
 
 {% block nav-link %}
-<a class="btn btn-outline-primary btn-xm" href="/players/" role="button">PLAYERS</a>
+  {% if user.is_active %}
+  <a class="btn btn-outline-primary btn-xm" href="{% url 'players:index' %}" role="button">Players</a>
+  {% else %}
+  <a class="btn btn-outline-primary btn-xm" href="{% url 'login' %}" role="button">Login</a>
+  {% endif %}
 {% endblock %}
 
 {% block header %}

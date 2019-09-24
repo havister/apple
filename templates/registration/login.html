@@ -8,27 +8,40 @@
   {% block title %}<title>Pointnut</title>{% endblock %}
   <link rel="icon" href="{% static 'favicon.ico' %}">
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">
   <link rel="stylesheet" href="{% static 'style.css' %}">
 </head>
-<body>
-
-<!-- Navigation -->
-<nav class="box-pad">
-  <div class="d-flex align-items-center">
-    <div class="mb-1 h4 mr-auto">
-      {% block nav-title %}{% endblock %}
-    </div>
-    <div class="mb-0 h6">
-      {% block nav-link %}{% endblock %}
-    </div>
-  </div>
-</nav>
+<body class="bg-light" style="max-width: 320px">
 
 <!-- Content -->
 <main class="box">
-{% block header %}{% endblock %}
-{% block main %}{% endblock %}
+  <!-- Header -->
+  <header class="mt-5 bg-light">
+    <h1 class="mb-4 text-center"><a class="text-dark" href="/">POINTNUT</a></h1>
+  </header>
+  {% if form.errors %}
+  <div class="alert alert-danger">
+    <small>아이디 또는 패스워드가 일치하지 않습니다.</small>
+  </div>
+  {% endif %}
+  <!-- Section -->
+  <section class="card">
+    <div class="card-body">
+      <!-- Form -->
+      <form method="post" action="{% url 'login' %}">
+        {% csrf_token %}
+        <input type="hidden" name="next" value="">
+        <div class="form-group">
+          <label for="{{ form.username.id_for_label }}"><strong>아이디</strong></label>
+          <input class="form-control" id="{{ form.username.id_for_label }}" maxlength="15" name="{{ form.username.html_name }}" type="text">
+        </div>
+        <div class="form-group mb-4">
+          <label for="{{ form.password.id_for_label }}"><strong>패스워드</strong></label>
+          <input class="form-control" id="{{ form.password.id_for_label }}" maxlength="120" name="{{ form.password.html_name }}" type="password">
+        </div>
+        <button type="submit" class="btn btn-primary py-2 w-100">로그인</button>
+      </form>
+    </div>
+  </section>
 </main>
 
 <!-- Footer -->
