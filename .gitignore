@@ -1,0 +1,14 @@
+# Editor
+/.vscode/
+
+# Django
+__pycache__/
+migrations/
+
+pointnut/db_password
+pointnut/secret_key
+pointnut/settings.py
+
+*.log
+*.pot
+*.pyc
