@@ -8,6 +8,6 @@ urlpatterns = [
     path('', IndexView.as_view(), name='index'),
     # /players/player_name/
     path('<player_name>/', PlayerView.as_view(), name='player'),
-    # /players/player_name/returns/
-    path('<player_name>/returns/', ReturnsView.as_view(), name='returns'),
+    # /players/returns/player_name/
+    path('returns/<player_name>/', ReturnsView.as_view(), name='returns'),
 ]
