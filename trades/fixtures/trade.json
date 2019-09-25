@@ -5262,5 +5262,21 @@
     "difference": null,
     "change": null
   }
+},
+{
+  "model": "trades.trade",
+  "pk": 330,
+  "fields": {
+    "player": 3,
+    "signal": 3,
+    "asset": 3,
+    "position": "L",
+    "date_opened": "2019-02-11T12:58:34",
+    "price_opened": "37000.00",
+    "date_closed": "2019-09-23T09:10:30",
+    "price_closed": "45400.00",
+    "difference": "8400.00",
+    "change": "22.70"
+  }
 }
 ]
