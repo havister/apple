@@ -5,7 +5,7 @@
 {% endblock %}
 
 {% block nav-title %}
-<a class="mr-2" href="/players/"><i class="fas fa-chevron-left"></i></a>
+<a class="mr-2" href="{% url 'players:index' %}"><i class="fas fa-chevron-left"></i></a>
 <span class="text-uppercase">{{ player.username }}</span>
 {% endblock %}
 
