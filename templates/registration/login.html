@@ -10,7 +10,7 @@
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
   <link rel="stylesheet" href="{% static 'style.css' %}">
 </head>
-<body class="bg-light" style="max-width: 320px">
+<body class="bg-light" style="max-width:400px">
 
 <!-- Content -->
 <main class="box-pad">
@@ -20,24 +20,24 @@
   </header>
   <!-- Section -->
   <section class="card">
-    <div class="card-body">
+    <div class="card-body m-3">
       <!-- Form -->
       <form method="post" action="{% url 'login' %}">
         {% csrf_token %}
-        <input type="hidden" name="next" value="">
+        <input type="hidden" name="next" value="{{ next }}">
         <div class="form-group">
           <label for="{{ form.username.id_for_label }}"><strong>아이디</strong></label>
-          <input class="form-control" id="{{ form.username.id_for_label }}" maxlength="15" name="{{ form.username.html_name }}" type="text">
+          <input class="form-control" id="{{ form.username.id_for_label }}" maxlength="15" name="{{ form.username.html_name }}" type="text" placeholder="ID">
         </div>
         <div class="form-group mb-4">
           <label for="{{ form.password.id_for_label }}"><strong>패스워드</strong></label>
-          <input class="form-control" id="{{ form.password.id_for_label }}" maxlength="120" name="{{ form.password.html_name }}" type="password">
+          <input class="form-control" id="{{ form.password.id_for_label }}" maxlength="120" name="{{ form.password.html_name }}" type="password" placeholder="Password">
         </div>
         <button type="submit" class="btn btn-primary py-2 w-100">로그인</button>
       </form>
     </div>
     {% if form.errors %}
-    <div class="card-footer">
+    <div class="card-footer p-3 text-center">
       <small class="text-danger">아이디 또는 패스워드가 일치하지 않습니다.</small>
     </div>
     {% endif %}
