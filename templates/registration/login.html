@@ -13,16 +13,11 @@
 <body class="bg-light" style="max-width: 320px">
 
 <!-- Content -->
-<main class="box">
+<main class="box-pad">
   <!-- Header -->
-  <header class="mt-5 bg-light">
-    <h1 class="mb-4 text-center"><a class="text-dark" href="/">POINTNUT</a></h1>
+  <header class="bg-light">
+    <h1 class="my-4 text-center"><a class="text-dark" href="/">POINTNUT</a></h1>
   </header>
-  {% if form.errors %}
-  <div class="alert alert-danger">
-    <small>아이디 또는 패스워드가 일치하지 않습니다.</small>
-  </div>
-  {% endif %}
   <!-- Section -->
   <section class="card">
     <div class="card-body">
@@ -41,6 +36,11 @@
         <button type="submit" class="btn btn-primary py-2 w-100">로그인</button>
       </form>
     </div>
+    {% if form.errors %}
+    <div class="card-footer">
+      <small class="text-danger">아이디 또는 패스워드가 일치하지 않습니다.</small>
+    </div>
+    {% endif %}
   </section>
 </main>
 
